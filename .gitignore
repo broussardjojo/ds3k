@@ -1,3 +1,5 @@
 # These should be invidual.
 .env
 api-keys
+
+*/.cache

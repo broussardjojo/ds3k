@@ -3,3 +3,5 @@
 api-keys
 
 */.cache
+
+data/spotify/*/my_spotify_data/MyData/Payments.json

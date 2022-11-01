@@ -80848,5 +80848,29 @@
   "artist": "Joytastic Sarah",
   "track": "Fly Me to the Moon",
   "uri": "spotify:track:4RxyIfOAN8HsjBBoKKt0A4"
- }
+ },
+  {
+    "artist": "Gryffin",
+    "track": "All You Need To Know (feat. Calle Lehmann)",
+    "uri": "spotify:track:4Gcv5SsxnQWpmOnUI19EJk"
+  },
+  {
+    "artist": "Piano Pan",
+    "track": "Call Of Silence (From \"Attack On Titan\")",
+    "uri": "spotify:track:2kvAlaCGHnrjpVCMVSvd54"
+  },
+  {
+    "artist": "Streaming Music Studios",
+    "track": "Luma (From \"Super Mario Galaxy\") [Piano Version]" ,
+    "uri": "spotify:track:63Kl7faGbITZxkJGtO7MPT"},
+  {
+    "artist": "Tritonal",
+    "track": "Signals",
+    "uri": "spotify:track:7F8LoNeDRgItTcpTpYTmY3"
+  },
+  {
+    "artist": "Baby Keem",
+    "track": "Leverage",
+    "uri": "spotify:track:5W1qeEGfh4SaUxniF9VKP6"
+  }
 ]

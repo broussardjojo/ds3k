@@ -5,7 +5,7 @@
 3,MIMIDEATH,abusive,spotify:track:11V7vRMorD73js8sfgBOS7,,True,
 4,Rico Nasty,Pressing Me,spotify:track:3wtVRcrYtWJVs0rBTabJJ8,,True,
 5,DaBaby,VIBEZ,spotify:track:0fySG6A6qLE8IvDpayb5bM,True,True,
-6,Otoboke Beaver,"Leave me alone! No, stay with me!",spotify:track:0al4YLXuKajNIiJ1IXi9JL,,,
+6,Otoboke Beaver,"Leave me alone! No, stay with me!",spotify:track:0al4YLXuKajNIiJ1IXi9JL,,True,
 7,Flo Milli,Like That Bitch,spotify:track:7zoZd2MuTaQEdF1rlq6Vv1,,True,
 8,"Tyler, The Creator","PartyIsntOver/Campfire/Bimmer (feat. Frank Ocean, feat. Laetitia Sadier, feat. Laetitia Sadier & Frank Ocean)",spotify:track:04QTBqa3IA4ZAKEuqRPzEH,,True,
 9,Lorde,Buzzcut Season,spotify:track:51QEyJI5M7uyd8DOh9tqQY,,True,
@@ -18,7 +18,7 @@
 16,Lady Gaga,"Beautiful, Dirty, Rich",spotify:track:4Jvz8OW0kOa6RK23YPKMtj,,True,
 17,Moe Shop,Notice,spotify:track:4n0sVfRnd0UJsqcbPj7GqN,,True,
 18,Lorde,Perfect Places,spotify:track:7ARveOiD31w2Nq0n5FsSf8,,True,
-19,Cuco,Drown,spotify:track:03ZkvqZOANKndGXfAAPywG,,True,
+19,Cuco,Drown,spotify:track:03ZkvqZOANKndGXfAAPywG,,True,True
 20,Kanye West,No More Parties In LA,spotify:track:0zLClc0emc6qUeV1p5nc99,,True,True
 21,Mitski,Why Didn't You Stop Me?,spotify:track:2nifujUVU1XyhTSHI2kQ8g,,True,
 22,FEMM,Falling For A Lullaby,spotify:track:0b4FCXSNVqT4GXTs7ck4vj,,True,
@@ -26,7 +26,7 @@
 24,recovery girl,physical touch,spotify:track:37dffoVwZn3gV8VaVP4Rlx,,True,
 25,Danny Brown,Really Doe,spotify:track:6dHatCnuOb1TdBIeJTK3Y0,,True,
 26,Kevin Abstract,Miserable America,spotify:track:5WPVwig7Tl6NFJ5BL6ONhd,,True,
-27,Cults,Always Forever,spotify:track:2enPRFda84VE2wtI8c86Uf,,True,
+27,Cults,Always Forever,spotify:track:2enPRFda84VE2wtI8c86Uf,,True,True
 28,The Aces,Lovin' is Bible,spotify:track:40c498Ic7gnr1znNRZiPPV,,,
 29,Vince Staples,Like It Is,spotify:track:6yHZ09mUcQRZtWBYW73OoQ,,True,
 30,Omar Apollo,Useless,spotify:track:7dJN4NWQuqCjWwIT3UwOps,,True,
@@ -39,8 +39,8 @@
 37,Rebecca Black,Better in My Memory,spotify:track:0eWCi968jvfFZiLSMiOeFD,,True,
 38,Jasiah,Art of War (feat. Denzel Curry & Rico Nasty),spotify:track:75tFBhZ34HNOiPder8VFYt,,True,
 39,Fiona Apple,I Want You To Love Me,spotify:track:73SBAGI4fPFm4VkB3NjXq8,,True,
-40,Ecco2k,Time,spotify:track:4KfZSdlJ2YYZA4Q1p9WzUK,,,
-41,Kendrick Lamar,XXX. FEAT. U2.,spotify:track:4iYRa2btalAzPZoSYfROqF,,True,
+40,Ecco2k,Time,spotify:track:4KfZSdlJ2YYZA4Q1p9WzUK,,True,
+41,Kendrick Lamar,XXX. FEAT. U2.,spotify:track:4iYRa2btalAzPZoSYfROqF,,True,True
 42,Kero Kero Bonito,Trampoline,spotify:track:3LuLUNgRmmgcr14dTIWH2S,,True,
 43,Kanye West,Devil In A New Dress,spotify:track:1UGD3lW3tDmgZfAVDh6w7r,,True,True
 44,Vince Staples,BagBak,spotify:track:5POEFQCKtD0QxYLfZ2kqEx,,True,
@@ -58,7 +58,7 @@
 56,PinkPantheress,Just a waste,spotify:track:0R4uAhlkr1I8EgPxqBwzBs,,,
 57,The Marías,Un Millón,spotify:track:5dFG12OQz10CbUFZIYH0gv,,True,
 58,ScHoolboy Q,Collard Greens,spotify:track:0zO8ctW0UiuOefR87OeJOZ,,True,True
-59,Grimes,Genesis,spotify:track:3cjvqsvvU80g7WJPMVh8iq,,True,
+59,Grimes,Genesis,spotify:track:3cjvqsvvU80g7WJPMVh8iq,,True,True
 60,food house,mos thoser,spotify:track:6nEDYdxD1YEWnXdbWxT6U8,,True,
 61,Calum Bowen,The Club,spotify:track:77GKbwFEiNL7zmelPymsJB,,True,
 62,Liza Anne,Bummer Days,spotify:track:5XgD3IJKhhChTDtoRzl2V6,,True,
@@ -70,12 +70,12 @@
 68,Car Seat Headrest,Nervous Young Inhumans,spotify:track:4EQlTA60UgWuSrc1UfWUyQ,,True,
 69,Machine Girl,うずまき,spotify:track:6pD8zEYJc0096VvUQAcEO0,,True,
 70,Dorian Electra,M'Lady (feat. Kero Kero Bonito) [S3RL Remix],spotify:track:327Y6xTmonBO9FY01ZKuti,,True,
-71,Rhymefest,Brand New (feat. Kayne West) - Dirty,spotify:track:3hdtox1ZVmJBF9YjcEUy1o,,,
+71,Rhymefest,Brand New (feat. Kayne West) - Dirty,spotify:track:3hdtox1ZVmJBF9YjcEUy1o,,True,
 72,Ashnikko,Maggots,spotify:track:4z273kPQy8lRomWDuwOrb4,,True,
 73,The Strokes,Reptilia,spotify:track:57Xjny5yNzAcsxnusKmAfA,,True,
 74,Faye Webster,Flowers (feat. Father),spotify:track:7AkCXyHbKYgySIjqVzG3jm,,True,
-75,REI AMI,SNOWCONE,spotify:track:1VBcGsab5bnDFr319bzSWO,,True,
-76,Kanye West,Fade,spotify:track:3cCxoOgfi6hgt8MNteuiiD,,,
+75,REI AMI,SNOWCONE,spotify:track:1VBcGsab5bnDFr319bzSWO,,True,True
+76,Kanye West,Fade,spotify:track:3cCxoOgfi6hgt8MNteuiiD,,True,True
 77,Car Seat Headrest,Cute Thing,spotify:track:7AppWYIm98qFOGVMbNHJSB,,True,
 78,Machine Girl,Post Rave Maximalist,spotify:track:39yRcZYyAxUsb4S7kQBpJB,,True,
 79,Shakira,She Wolf,spotify:track:4cS2HQ6jK80vqdY9ofpztx,,True,
@@ -90,16 +90,16 @@
 88,BenZel,Touch,spotify:track:0iASzYgB1Np2eMYmYDzn2P,,True,
 89,Baby Keem,family ties (with Kendrick Lamar),spotify:track:7Bpx2vsWfQFBACRz4h3IqH,True,True,True
 90,"Tyler, The Creator",WILSHIRE,spotify:track:1pbbsI2KGPOMu0HmuGccBu,,True,
-91,Baby Keem,vent,spotify:track:1ITpqT1kDATCtMBwOK7sYn,,,
+91,Baby Keem,vent,spotify:track:1ITpqT1kDATCtMBwOK7sYn,,True,True
 92,Flo Milli,Beef FloMix,spotify:track:4J2NxCNqehE0MiZhbu97Jx,,True,
 93,Djflykidd,let me see you do it,spotify:track:7lllENfxsWJccElSNXuGOJ,,True,
-94,Cocteau Twins,Serpentskirt,spotify:track:5D8SzvASRr7V7ZrrXsh6SY,,,
+94,Cocteau Twins,Serpentskirt,spotify:track:5D8SzvASRr7V7ZrrXsh6SY,,True,
 95,The Pom-Poms,I Got That Boom,spotify:track:1lNwBlwE9MH3FtKN0FkiH7,,True,
 96,ROSALÍA,MALAMENTE - Cap.1: Augurio,spotify:track:1B0BQaSRHxhI0AUlItY3LK,,True,
 97,Rico Nasty,Countin' Up,spotify:track:6UFG7GbMAeeMijEyrp6f1D,,True,
 98,Rico Nasty,Roof,spotify:track:1uX18gfpzbP8iLaOjy6p3V,,True,
 99,Chloe x Halle,Galaxy,spotify:track:7d56WYqFkqL7y9V7PnMj7W,,True,
-100,Kanye West,Two Words,spotify:track:62wtttQzoIA9HnNmGVd9Yq,,,
+100,Kanye West,Two Words,spotify:track:62wtttQzoIA9HnNmGVd9Yq,,True,
 101,Lil Jon,Drink - Dirty,spotify:track:41QtT8n6Sfu1wFEUKLya8L,,True,
 102,Anderson .Paak,Jet Black (feat. Brandy),spotify:track:70pZIQqQ37SrNCADx0FiPN,,True,
 103,"Tyler, The Creator",BEST INTEREST,spotify:track:3jHdKaLCkuNEkWcLVmQPCX,True,True,
@@ -110,7 +110,7 @@
 108,Grimes,We Appreciate Power,spotify:track:5b0DJPEs6UUlDmpZuoDD2X,,True,
 109,Ashnikko,Halloweenie II: Pumpkin Spice,spotify:track:0RcwpbPBHFj18vIs5yGdxg,,True,
 110,Kero Kero Bonito,Pocket Crocodile,spotify:track:4hglQSLy3PHgu2e1kQ5qxe,,True,
-111,HARU NEMURI,narashite,spotify:track:7IIRN7KZksXp9ieBFmNuHI,,,
+111,HARU NEMURI,narashite,spotify:track:7IIRN7KZksXp9ieBFmNuHI,,True,
 112,Kanye West,Stronger,spotify:track:4fzsfWzRhPawzqhX8Qt9F3,,True,True
 113,Baby Tate,Mean Girl (feat. Queen Key & Asian Doll),spotify:track:61HXix5FqC7fuqty8sQJ0r,,True,
 114,Kendrick Lamar,i,spotify:track:7wdzLe2Gsx1RGqbvYZHASz,,True,
@@ -120,7 +120,7 @@
 118,BABYNYMPH,clown shit (up the wall) [SOPHIE Remix],spotify:track:4fORekngPoCqeJpe3xg6GQ,,True,
 119,Lorde,400 Lux,spotify:track:6rjtB7KSIiJ6v9vrACMlqF,True,True,
 120,Twista,Slow Jamz,spotify:track:3A4cpTBPaIQdtPFb5JxtaX,,True,True
-121,Tommy Genesis,100 Bad,spotify:track:5Q36ZTmWp2QQZnyUZLeVE9,,True,
+121,Tommy Genesis,100 Bad,spotify:track:5Q36ZTmWp2QQZnyUZLeVE9,,True,True
 122,Remi Wolf,Hello Hello Hello,spotify:track:1xNknVNOolLB4oQeEtNBX2,,True,
 123,Charli XCX,Trophy,spotify:track:3LcH7UHXAstKd0qUDdlRQa,,True,
 124,Mitski,First Love / Late Spring,spotify:track:1Ac5BDsGUMQ3tsW2vnc52x,,True,
@@ -128,7 +128,7 @@
 126,Seth Parker,Escape from Snaxburg,spotify:track:45UXnJBhQPFPAiRQTakxP5,,True,
 127,Baby Tate,That Girl,spotify:track:1eGW9NUzLN1roVpWWyjVI8,,True,
 128,Indigo De Souza,Take Off Ur Pants,spotify:track:1hT40puiAJU7uTcUZGmcdN,,True,
-129,JAY-Z,No Church In The Wild,spotify:track:3Osd3Yf8K73aj4ySn6LrvK,,,True
+129,JAY-Z,No Church In The Wild,spotify:track:3Osd3Yf8K73aj4ySn6LrvK,,True,True
 130,Ashnikko,Drunk With My Friends,spotify:track:2YBN2v1sRizy1bQQFMlDEI,,True,
 131,The Carters,APESHIT,spotify:track:0E6PsO3ymCfUh7pJQjBgkj,,,
 132,"Slaughter Beach, Dog",Your Cat,spotify:track:0nKrDJLm94OpQElETtklsh,,True,
@@ -138,7 +138,7 @@
 136,Kanye West,Runaway,spotify:track:3DK6m7It6Pw857FcQftMds,True,True,True
 137,Kero Kero Bonito,Only Acting,spotify:track:4aIoxZWHySrA3BpnmeREXJ,,True,
 138,My Chemical Romance,"Give 'Em Hell, Kid",spotify:track:0axF06XwNLobcx5z8BVtYw,,True,
-139,Porter Robinson,Get Your Wish,spotify:track:1HjZDqiaUrq46GHhHXE4vG,,True,
+139,Porter Robinson,Get Your Wish,spotify:track:1HjZDqiaUrq46GHhHXE4vG,,True,True
 140,Death Grips,Runway H (2),spotify:track:3jwj0MUCNJyoYVe7AYD0aQ,,True,
 141,Rico Nasty,Cold,spotify:track:4Onanh2sbZQKTGH8KvWzxS,,True,
 142,Death Grips,Black Dice,spotify:track:08R0UATC6bzZst68bkuAXk,,True,
@@ -157,13 +157,13 @@
 155,Rico Nasty,IPHONE,spotify:track:4n21zISadDVx1FFJNfJ67J,,True,
 156,Rage Against The Machine,Killing In The Name,spotify:track:59WN2psjkt1tyaxjspN8fp,,True,
 157,Kanye West,I Love It (& Lil Pump),spotify:track:4S8d14HvHb70ImctNgVzQQ,True,True,
-158,BROCKHAMPTON,DON'T SHOOT UP THE PARTY,spotify:track:3X0Tof7fViQGV95EKIY5x1,,True,
-159,Aminé,Heebiejeebies - Bonus,spotify:track:32xx0fAv3CIeGmNaWTHvEF,,True,
+158,BROCKHAMPTON,DON'T SHOOT UP THE PARTY,spotify:track:3X0Tof7fViQGV95EKIY5x1,,True,True
+159,Aminé,Heebiejeebies - Bonus,spotify:track:32xx0fAv3CIeGmNaWTHvEF,,True,True
 160,Rina Sawayama,Sleeping in Waking,spotify:track:5pFhMCgUcZ93S64lLMD0ZV,,True,
 161,Slim Poppins,Cherry Bomb,spotify:track:11AzB3x9q4QtLnZVxpeWKb,,True,
 162,Vampire Weekend,Campus,spotify:track:7ui9Qq4JcPGcd3xWOeXhHp,,True,
 163,Kanye West,Off The Grid,spotify:track:2gbMPBrBVj3CuNTLp2dHYs,,True,True
-164,Stars,Your Ex-Lover Is Dead,spotify:track:6XGKlssGb3oE9IUCvjLthd,,,
+164,Stars,Your Ex-Lover Is Dead,spotify:track:6XGKlssGb3oE9IUCvjLthd,,True,
 165,Baby Tate,B.O.M.B.S.,spotify:track:4D8KWoUe3oTaQSQq928X7B,,True,
 166,Rico Nasty,Popstar,spotify:track:6Ww2sVKm8i3ONuCmZomqft,,True,
 167,Charli XCX,No Angel,spotify:track:4neipBD8hA1q2g1FS9hgAC,,True,
@@ -171,7 +171,7 @@
 169,Victoria Monét,Experience,spotify:track:0hRRNHeSZv2x6pHCcXPAct,,True,
 170,MF DOOM,Om - Edit,spotify:track:4XxkCL8qAoz8vZ2g5JdvAl,,True,
 171,A$AP Rocky,Praise The Lord (Da Shine) (feat. Skepta),spotify:track:7ycWLEP1GsNjVvcjawXz3z,,True,True
-172,NANORAY,Sequential Dreambox,spotify:track:0SNe7A2rdfmvL6YxqJSZEt,,,
+172,NANORAY,Sequential Dreambox,spotify:track:0SNe7A2rdfmvL6YxqJSZEt,,True,
 173,Alice Longyu Gao,Dumb Bitch Juice,spotify:track:3PIch19Ly5hNPPGf1PJefy,,True,
 174,Megan Thee Stallion,Diamonds (with Normani),spotify:track:0PQsrLxPbOBBwwmXCnGvcF,,True,
 175,Tove Lo,Bad as the Boys (feat. ALMA),spotify:track:1CGQTaQVVfA0CNae8IwPyC,,True,
@@ -197,9 +197,9 @@
 195,Alice Longyu Gao,Rich Bitch Juice - Laura Les Remix,spotify:track:0hfjiQ13PQ4TcHOXyi1NWx,,True,
 196,dj-Jo,Two Faced Lovers,spotify:track:1U8wnQrnAlWPByturxKdcD,,True,
 197,Aminé,Spice Girl,spotify:track:4HW5kSQ8M2IQWZhSxERvla,True,True,
-198,KIDS SEE GHOSTS,Fire,spotify:track:7oHkit3F3vimtsBbnZkU0G,,,True
+198,KIDS SEE GHOSTS,Fire,spotify:track:7oHkit3F3vimtsBbnZkU0G,,True,True
 199,Flo Milli,Weak,spotify:track:599VJEzv4zz9vGKVEz3C7e,,True,
-200,Yeah Yeah Yeahs,Heads Will Roll - A-Trak Remix,spotify:track:2idmlkd8oUaQvYEtINpLBX,,,
+200,Yeah Yeah Yeahs,Heads Will Roll - A-Trak Remix,spotify:track:2idmlkd8oUaQvYEtINpLBX,,True,
 201,Rico Nasty,Hatin,spotify:track:3Wk4qCyx4m5aoafRxftp43,,True,
 202,Coco & Clair Clair,TLG,spotify:track:7MGdmqh3XYOQdssUS1GGiT,,True,
 203,Dounia,Casablanca,spotify:track:6glGUkhkNjV98OMUAwws5J,,True,True
@@ -213,21 +213,21 @@
 211,Mitski,Lonesome Love,spotify:track:5hgWjrfgnDb29uCaQ1UovU,,True,
 212,Vince Staples,Lift Me Up,spotify:track:6mXwoyzrpb4T5Iveoo4k5G,,True,
 213,Fickle Friends,San Francisco,spotify:track:3dHQi60AqDoXhivIpbCvjb,,True,
-214,illuminati hotties,(You're Better) Than Ever,spotify:track:09kvp605VBJEeK65QIgnrx,,,
+214,illuminati hotties,(You're Better) Than Ever,spotify:track:09kvp605VBJEeK65QIgnrx,,True,
 215,The Veronicas,Untouched,spotify:track:4WkOdYTTcPa7WefKMK1iYL,,True,
-216,Holy Fuck,Airport Dreams,spotify:track:7n8ZZoNLVtHA5GXvyZLIGa,,,
+216,Holy Fuck,Airport Dreams,spotify:track:7n8ZZoNLVtHA5GXvyZLIGa,,True,
 217,Bobby Shmurda,Hot N*gga,spotify:track:19gEmPjfqSZT0ulDRfjl0m,,True,
 218,girl in red,dead girl in the pool.,spotify:track:5MAjVARSIDzwz8jFG36hFu,,True,
 219,Rina Sawayama,Cherry,spotify:track:49eeirITrqP3pJALseu6Ed,,True,
 220,Gorillaz,Rhinestone Eyes,spotify:track:1foMv2HQwfQ2vntFf9HFeG,,True,
-221,Baby Keem,STATS,spotify:track:0w6webWdhjRKdqJ3DeGgM1,,True,
+221,Baby Keem,STATS,spotify:track:0w6webWdhjRKdqJ3DeGgM1,,True,True
 222,Smino,L.M.F.,spotify:track:2KmYPKHvwG77NAcDpFlLBm,,True,
 223,Machine Girl,Kill Screen,spotify:track:1TT5R4Aq3g1xuwob3FWhWT,,True,
 224,Chloe x Halle,Happy Without Me (feat. Joey Bada$$),spotify:track:1mQI744KrltnCU798zIGEe,,True,
-225,Lykke Li,sex money feelings die,spotify:track:0g4fzRkbLeCDUCoe5iUOcf,True,True,
+225,Lykke Li,sex money feelings die,spotify:track:0g4fzRkbLeCDUCoe5iUOcf,True,True,True
 226,Voxtrot,The Start Of Something,spotify:track:6K5GAopLZzzg0ZX8k5GWwh,,True,
 227,Carly Rae Jepsen,Real Love,spotify:track:70SnF1RJLB3blEDBWjrig3,,True,
-228,Guerilla Toss,Can I Get the Real Stuff,spotify:track:45Ggd1QivaMGZRIuFWBGCz,,,
+228,Guerilla Toss,Can I Get the Real Stuff,spotify:track:45Ggd1QivaMGZRIuFWBGCz,,True,
 229,Metaroom,TRASH CLAN,spotify:track:1Y7ovi4HD3yNzApYSm3coP,,True,
 230,Kanye West,I'm In It,spotify:track:52NmkyHsGsHGb1UX8fTkMg,,True,
 231,LunchMoney Lewis,Make That Cake (feat. Doja Cat),spotify:track:3H46DLWgIFfEoP4mOXEIzq,,True,
@@ -239,10 +239,10 @@
 237,Rina Sawayama,XS,spotify:track:1TWNKyNQOBfNUkWWs7FooF,,True,
 238,Clairo,Amoeba,spotify:track:0HAqq2GcQKyi3s87GuN7jU,,True,
 239,Big Thief,Real Love,spotify:track:6lU6rPNgmEhilIurtFmkFm,,True,
-240,Childish Gambino,This Is America,spotify:track:0b9oOr2ZgvyQu88wzixux9,True,,
+240,Childish Gambino,This Is America,spotify:track:0b9oOr2ZgvyQu88wzixux9,True,True,
 241,10cc,I'm Not In Love,spotify:track:5HQEmiV2lKnSO6qa2fsR7x,,True,
 242,Car Seat Headrest,Beast Monster Thing (Love Isn't Love Enough),spotify:track:6n3Axk0f9yRo3v6PNolCbk,,True,
-243,"Tyler, The Creator",Her,spotify:track:0XDfOOlscDrr50Q0PERrVd,True,True,
+243,"Tyler, The Creator",Her,spotify:track:0XDfOOlscDrr50Q0PERrVd,True,True,True
 244,Rico Nasty,Big Dick Energy,spotify:track:7GFRxsRFuaSgPBxvYnrYDL,,True,
 245,City Girls,Where The Bag At,spotify:track:7GlZhPkCA259c3ICFU0eaG,,True,
 246,"Tyler, The Creator",EARFQUAKE,spotify:track:5hVghJ4KaYES3BFUATCYn0,True,True,True
@@ -250,10 +250,10 @@
 248,Kero Kero Bonito,Well Rested,spotify:track:2as0SjHe6BVgirrR7GMqzY,,True,
 249,Paramore,Misery Business,spotify:track:6SpLc7EXZIPpy0sVko0aoU,True,True,
 250,Mitski,"Goodbye, My Danish Sweetheart",spotify:track:3iDMNG7MD7uCPMxBOa66ZI,,True,
-251,LOONA,Heart Attack (츄),spotify:track:6SSC9KZQaxBdyipKRigrFC,,,
+251,LOONA,Heart Attack (츄),spotify:track:6SSC9KZQaxBdyipKRigrFC,,True,
 252,Sega Bodega,CC (feat. Shygirl),spotify:track:2bVMo5478evu0jBKb1oTq7,,True,
 253,Kanye West,See You In My Nightmares,spotify:track:5zuoz1NBnpoHK6g5sbEH8F,,True,True
-254,Otoboke Beaver,PARDON?,spotify:track:1OiEyOhzqSVy88ZO6Gzqxf,,,
+254,Otoboke Beaver,PARDON?,spotify:track:1OiEyOhzqSVy88ZO6Gzqxf,,True,
 255,Machine Girl,Excruciating Deth,spotify:track:7ehfk8KcDERZy94rqKDRZb,,True,
 256,Tommy Genesis,Miami,spotify:track:4fkRiuq5jzUS74o573v00n,,True,True
 257,Kanye West,Lost In The World,spotify:track:2Im64pIz6m0EJKdUe6eZ8r,,True,True
@@ -262,17 +262,17 @@
 260,Kanye West,POWER,spotify:track:2gZUPNdnz5Y45eiGxpHGSc,,True,True
 261,Indigo De Souza,Sleep Talking,spotify:track:02YWpfMAUVTvsbhu3QO9fM,,True,
 262,Anamanaguchi,My Skateboard Will Go On,spotify:track:3VAu7hzDbqJquXa0vHjwbJ,,True,
-263,Kanye West,Never Let Me Down,spotify:track:34j4OxJxKznBs88cjSL2j9,,,
+263,Kanye West,Never Let Me Down,spotify:track:34j4OxJxKznBs88cjSL2j9,,True,
 264,Car Seat Headrest,There Must Be More Than Blood,spotify:track:4aLVleE09ZRl720qy9yHIp,,True,
 265,Death Grips,Death Grips Is Online,spotify:track:4EHv5m2D0zDYYAu4xZoYwm,,True,
 266,Flo Milli,Not Friendly,spotify:track:2le8xbpMJ1aA0SpJZRMbRw,,True,
 267,My Chemical Romance,To the End,spotify:track:1GErReAT0swX36x3O8GyQn,,True,
 268,The Buttress,Nothing Wrong with Me,spotify:track:7gOw0OUDsfqjTULYZsQtMc,,True,
 269,Dayglow,Can I Call You Tonight?,spotify:track:64lsIF5pw0sJY0gV5kz0RN,,True,
-270,Danny Brown,Combat,spotify:track:3ZbTIbNjbLZtIxk39IRrBQ,,,
+270,Danny Brown,Combat,spotify:track:3ZbTIbNjbLZtIxk39IRrBQ,,True,
 271,Otoboke Beaver,S'il vous plait,spotify:track:6NeSiZokIiQwJaqAID41Vy,,True,
 272,Vince Staples,Feels Like Summer,spotify:track:5zEeiQbazUWskpZNhnh6i2,,True,True
-273,Candy Claws,Pangaea Girls (Magic Feeling),spotify:track:49DmTlbizOa1VTQRqVAuWJ,,,
+273,Candy Claws,Pangaea Girls (Magic Feeling),spotify:track:49DmTlbizOa1VTQRqVAuWJ,,True,
 274,Kesha,Dinosaur,spotify:track:6e3fQ1fC1MX7kfbpyc13Pw,,True,
 275,Auntie Flo,Highlife - SOPHIE Remix,spotify:track:1QRzHpULC2uZqfsviuu90k,,True,
 276,Mitski,Stay Soft,spotify:track:07zVQBJfbOuaAhpT3stRFL,,True,
@@ -287,11 +287,11 @@
 285,Emily Montes,The Blessed Emily,spotify:track:7rltb4wQtU3ovGbPb16PWH,,True,
 286,Maliibu Miitch,Give Her Some Money,spotify:track:6hrHoJmuISU9FhbFxGgrr1,,True,
 287,Indigo De Souza,Kill Me,spotify:track:66N8I6v00iQFPd56yU7dXf,,True,
-288,AURORA,Cure For Me,spotify:track:33WTgxRdPBQQpVCMXpNxhO,,,
-289,Shou,Tasty Carrots,spotify:track:54FgTS1O5kbZLaPjsCFY6x,,,
+288,AURORA,Cure For Me,spotify:track:33WTgxRdPBQQpVCMXpNxhO,,True,
+289,Shou,Tasty Carrots,spotify:track:54FgTS1O5kbZLaPjsCFY6x,,True,
 290,"Tyler, The Creator",911 / Mr. Lonely (feat. Frank Ocean & Steve Lacy),spotify:track:4bEcoz1OcfMgUbp2ft8ieQ,True,True,
 291,Indigo De Souza,How I Get Myself Killed,spotify:track:4kgbbVuAkGzmldwcJxagFT,,True,
-292,Candy Claws,Into the Deep Time (One Sun),spotify:track:0lw2mLzNcwftfTvDojdySG,,,
+292,Candy Claws,Into the Deep Time (One Sun),spotify:track:0lw2mLzNcwftfTvDojdySG,,True,
 293,grandma,Stomp and Grind (feat. Rico Nasty),spotify:track:1Cd8NflZKY5kmQdPdhSJwI,,True,
 294,Soulja Boy,Kiss Me Thru The Phone,spotify:track:2q4rjDy9WhaN3o9MvDbO21,,True,
 295,glass beach,classic j dies and goes to hell part 1,spotify:track:3ezuOjWuTirncJITAb8ahf,,True,
@@ -300,7 +300,7 @@
 298,Aminé,RATCHET SATURN GIRL,spotify:track:2q4F6OpQgx9umNB9uGFPYo,,True,
 299,Ayesha Nicole Smith,Literal Legend,spotify:track:04S5441cZXHu55Xx2wvwIh,,,
 300,Anderson .Paak,Come Down,spotify:track:276zciJ7Fg7Jk6Ta6QuLkp,,True,
-301,Alice Longyu Gao,100 Boyfriends,spotify:track:4bIYlBqq2HGHTvLqV9E1f8,,,
+301,Alice Longyu Gao,100 Boyfriends,spotify:track:4bIYlBqq2HGHTvLqV9E1f8,,True,
 302,Kero Kero Bonito,Lipslap,spotify:track:2oZHqyiEdQvZimjrdQrEtF,,True,
 303,WJSN,Pantomime,spotify:track:4lPsBlof2cjAIArw0nOGvQ,,True,
 304,Baby Tate,Pretty Girl,spotify:track:3oFlyenXjgsCoLCO90sAdY,,True,
@@ -309,31 +309,31 @@
 307,Kelis,Bossy,spotify:track:7nR3jmYBf3e9TEf6zpJiZb,,,
 308,Alice Glass,NIGHTMARES,spotify:track:7mSlQDf71bBDU3vRMJCSol,,True,
 309,Fiona Apple,Shameika,spotify:track:2pDKE8Q40TDGPl1O11DKKn,,True,
-310,ミドリ,お猿,spotify:track:1R6knwr1q0ylkanX1mBe75,,,
+310,ミドリ,お猿,spotify:track:1R6knwr1q0ylkanX1mBe75,,True,
 311,Rina Sawayama,Cherry,spotify:track:36RGU7buus2UUtrPZ78hkR,,True,
 312,Death Grips,Billy Not Really,spotify:track:6dxm3Z8U4lOJTWo6cGVDCR,,True,
 313,Qumu,"Bubblegum K.K. (From ""Animal Crossing: New Leaf"")",spotify:track:6UwVBumIzgJg1GJwRbgYDy,,True,
-314,Daneshevskaya,Dr. Johann Averies,spotify:track:0FXTj56OeM7A1FDV6N3bmw,,,
+314,Daneshevskaya,Dr. Johann Averies,spotify:track:0FXTj56OeM7A1FDV6N3bmw,,True,
 315,Carly Rae Jepsen,I'll Be Your Girl,spotify:track:51UAm8F9u16skm1R1ckMwr,,True,
 316,Soulja Boy,Pretty Boy Swag,spotify:track:6sQH5GFuqhvemSdP2oOfRi,,True,
-317,Fiona Apple,For Her,spotify:track:5BBWr1LUsCH1tECJLAUGnP,,,
+317,Fiona Apple,For Her,spotify:track:5BBWr1LUsCH1tECJLAUGnP,,True,
 318,Kero Kero Bonito,It's Bugsnax!,spotify:track:1goNp8FZSjak6UHYsawniU,,True,
-319,A$AP Ferg,Plain Jane REMIX (feat. Nicki Minaj),spotify:track:2YzmfPLqUx5CJOaw5ThsBV,,True,
+319,A$AP Ferg,Plain Jane REMIX (feat. Nicki Minaj),spotify:track:2YzmfPLqUx5CJOaw5ThsBV,,True,True
 320,Kanye West,All Falls Down,spotify:track:5SkRLpaGtvYPhw02vZhQQ9,True,True,True
 321,"Tyler, The Creator",LEMONHEAD (feat. 42 Dugg),spotify:track:5fbHRCsGpFIOLRtlhCRFDR,True,True,
-322,Baby Keem,APOLOGIZE,spotify:track:4MQIDIQjNWkUvpXe5Je7TO,,True,
+322,Baby Keem,APOLOGIZE,spotify:track:4MQIDIQjNWkUvpXe5Je7TO,,True,True
 323,Juicy J,TAKE IT,spotify:track:7gWoH2UDpBkQsq6KOuZXLw,,True,
 324,Lorde,A World Alone,spotify:track:55N0YHhO55Q1lWsc4dDPcI,,True,
-325,Rina Sawayama,Paradisin',spotify:track:0e1yfIkdDkvhSo2dFYCZIL,,,
+325,Rina Sawayama,Paradisin',spotify:track:0e1yfIkdDkvhSo2dFYCZIL,,True,
 326,Payday,Vampire - 1300 Remix,spotify:track:0GD39aIdx8AdViz1RFFZWh,,True,
 327,KIDS SEE GHOSTS,4th Dimension,spotify:track:6JyEh4kl9DLwmSAoNDRn5b,,True,True
 328,mxmtoon,ok on your own (feat. Carly Rae Jepsen),spotify:track:36GBFPY75lJpxk7GugxhL7,,True,
 329,Kanye West,Gorgeous,spotify:track:23SZWX2IaDnxmhFsSLvkG2,,True,True
 330,Kero Kero Bonito,Battle Lines,spotify:track:1YgbxtF7oePn9Gi7W03ysO,,True,
 331,BENEE,Plain (feat. Lily Allen & Flo Milli),spotify:track:4CwcIiZQvy4d9SxAUn5OaJ,,True,
-332,Freddie Gibbs,High (feat. Danny Brown),spotify:track:2bSF5Qs8IQE9RRaZIef7mO,,,
+332,Freddie Gibbs,High (feat. Danny Brown),spotify:track:2bSF5Qs8IQE9RRaZIef7mO,,True,
 333,Fickle Friends,Broken Sleep,spotify:track:5DWaEpFT3vqOrr3fTaOhA6,,True,
-334,BIA,YAKWTFGO (feat. Kali Uchis),spotify:track:6rrP1mBTbBkJCP7FsBe0SM,,,
+334,BIA,YAKWTFGO (feat. Kali Uchis),spotify:track:6rrP1mBTbBkJCP7FsBe0SM,,True,
 335,cupcakKe,Grilling Niggas,spotify:track:65UFucLPiVySQbDxw7zpqu,,True,
 336,Sweet Trip,Pro: Lov: Ad,spotify:track:7rR1msZYCT2MlrssnJMYgw,,True,
 337,The Internet,Come Over,spotify:track:70Tf2nUzVd9UfyJHwM5lic,,True,
@@ -343,26 +343,26 @@
 341,Still Woozy,Habit,spotify:track:1M321puDN1WBd5NF0ogOKW,,True,True
 342,Cornelius,Typewrite Lesson,spotify:track:2JEZdhsjF848Elx2XO3onI,,True,
 343,SOPHIE,Immaterial,spotify:track:02Mkz55cCAHabqlxwSP6X0,,True,
-344,Kanye West,School Spirit,spotify:track:1th3G3okofWlvGWAAR7Y4V,,,
+344,Kanye West,School Spirit,spotify:track:1th3G3okofWlvGWAAR7Y4V,,True,
 345,"Tyler, The Creator",Goblin,spotify:track:5LJD1sBRPnDkhWs2D5qRk2,,True,
 346,Arizona Zervas,ROXANNE,spotify:track:1ZPWWSwCkxKfqdp4H0RFCo,True,True,True
 347,MARINA,Radioactive,spotify:track:0HtM9aNFkEwd6alO0av3Qq,True,True,
-348,Otoboke Beaver,PARDON?,spotify:track:7l6yDpU2vIDXFQpdEYgpNO,,,
+348,Otoboke Beaver,PARDON?,spotify:track:7l6yDpU2vIDXFQpdEYgpNO,,True,
 349,MARINA,I Am Not a Robot,spotify:track:4Og5nDOUVu3ZrYQP4Ungyg,,True,
-350,Kanye West,New Again,spotify:track:75QktuEju5vz9lyXiLaUao,,,
+350,Kanye West,New Again,spotify:track:75QktuEju5vz9lyXiLaUao,,True,
 351,Rina Sawayama,LUCID,spotify:track:5DVATjQZPVsm5kWbrPmekU,,True,
 352,GameChops,Lonely Rolling Star,spotify:track:3wkejkspxUUrX4G7zdpQSd,,True,
-353,Carly Rae Jepsen,Too Much,spotify:track:4wpQYSyuaEMCoIC5GCdZPR,,True,
+353,Carly Rae Jepsen,Too Much,spotify:track:4wpQYSyuaEMCoIC5GCdZPR,,True,True
 354,Vulfpeck,Dean Town,spotify:track:1oOD1pV43cV9sHg97aBdLs,,True,
 355,Lady Gaga,G.U.Y.,spotify:track:5ve8saw5u0CbP9fcyNzmxN,,True,
 356,Fiona Apple,Fetch The Bolt Cutters,spotify:track:4SdubskbLiOkpsIjRVVsya,,True,
-357,BETWEEN FRIENDS,affection,spotify:track:3zWKSvWD4jONuTDlVpN5BT,,True,
+357,BETWEEN FRIENDS,affection,spotify:track:3zWKSvWD4jONuTDlVpN5BT,,True,True
 358,Daft Punk,One More Time,spotify:track:0DiWol3AO6WpXZgp0goxAV,,True,
 359,100 gecs,bloodstains,spotify:track:1j581GCDFQ9P8xd6fyjgLt,,True,
 360,Kanye West,Love Lockdown,spotify:track:1kxeWHF9PrCVZHvVskv8lg,,True,True
 361,osno1,A Conversation I Overheard,spotify:track:7jUa6Loc6TGsmXqxpawkvK,,True,
 362,Indigo De Souza,What Are We Gonna Do Now,spotify:track:1K3RvsS9oMpii4yD1uOQlN,,True,
-363,Consequence,"The Good, The Bad, The Ugly (feat. Kanye West) - Explicit Album Version",spotify:track:52uU5uNt9lOstGCc6C7QEJ,,,
+363,Consequence,"The Good, The Bad, The Ugly (feat. Kanye West) - Explicit Album Version",spotify:track:52uU5uNt9lOstGCc6C7QEJ,,True,
 364,Mitski,Strawberry Blond,spotify:track:3eGsNpXzcb1BDkfSJI54NY,,True,
 365,Rihanna,Needed Me,spotify:track:1Tt4sE4pXi57mTD1GCzsqm,,True,
 366,MGMT,Kids,spotify:track:1jJci4qxiYcOHhQR247rEU,,True,
@@ -374,31 +374,31 @@
 372,Kesha,TiK ToK,spotify:track:6zQlRd6tvEVJm59P8PMj7o,True,True,
 373,Thundercat,Them Changes,spotify:track:7CH99b2i1TXS5P8UUyWtnM,,True,
 374,Denzel Curry,Ultimate,spotify:track:6R0GRYk2vs2XuBVemYK5YZ,,True,
-375,Kanye West,I Wonder,spotify:track:4jQqM4NI79HEcWHUJb8Hvf,True,True,
+375,Kanye West,I Wonder,spotify:track:4jQqM4NI79HEcWHUJb8Hvf,True,True,True
 376,Otoboke Beaver,I am not maternal,spotify:track:2kVBf5PiS9LBhvDaBQ4uue,,True,
 377,Remi Wolf,Sauce,spotify:track:5uW2R7x5qyIRQRrQN38rsp,,True,
 378,Kitty,Scout Finch Bitch,spotify:track:3LbrJ3y1XipPlAUGMJLHf2,,True,
 379,Tove Lo,shivering gold,spotify:track:1GXUd5gJuydAdM0dlQrwbX,,True,
-380,"Tyler, The Creator",Golden,spotify:track:0150LSsZrpksYFj3nbynwj,,True,
+380,"Tyler, The Creator",Golden,spotify:track:0150LSsZrpksYFj3nbynwj,,True,True
 381,BENEE,Supalonely (feat. Gus Dapperton),spotify:track:3GZoWLVbmxcBys6g0DLFLf,,True,
 382,Sweet Little Band,Supercut,spotify:track:3paiJuTRVivZxBnlXkOHF1,,True,
-383,Kanye West,Breathe In Breathe Out,spotify:track:4KFY4EEv9CN6ivrzD6vEvg,,,
+383,Kanye West,Breathe In Breathe Out,spotify:track:4KFY4EEv9CN6ivrzD6vEvg,,True,
 384,Daniel Koestner,Raccoon House Music,spotify:track:0EPLyDc6Ar31QKZZtgEBxZ,,True,
 385,Kanye West,Blood On The Leaves,spotify:track:42GcjriRK6srwHkfbkBqVl,,True,
-386,Baby Keem,ORANGE SODA,spotify:track:5FkoSXiJPKTNyYgALRJFhD,,True,
+386,Baby Keem,ORANGE SODA,spotify:track:5FkoSXiJPKTNyYgALRJFhD,,True,True
 387,Kendrick Lamar,The Heart Part 4,spotify:track:41eiwHEX8iegmqmS2cf7oX,,,
 388,Maude Latour,Furniture,spotify:track:5hwCVRrBvFOkH3oK0LB7Fc,,True,
-389,Kaoru Akimoto,Dress Down,spotify:track:4M9Op6UQ36mhtjMBuevRYN,,True,
+389,Kaoru Akimoto,Dress Down,spotify:track:4M9Op6UQ36mhtjMBuevRYN,,True,True
 390,Kanye West,Yikes,spotify:track:1qsHYUd2c1wFGcn7e63QmG,,True,True
-391,RXKNephew,Slither Conspiracy,spotify:track:1wq1MOQLzKToYb6IjZb52G,,,
+391,RXKNephew,Slither Conspiracy,spotify:track:1wq1MOQLzKToYb6IjZb52G,,True,
 392,Kanye West,Blame Game,spotify:track:4EndPA8b6FDWYp1RgsnLEB,,True,True
 393,Leikeli47,Iron Mike,spotify:track:3qMJ7Ek4Al0BeMnMAI6Ves,,True,
 394,Ryn Weaver,OctaHate,spotify:track:7JVfDagtyWy9bYsaf37H9K,,True,
 395,Princess Nokia,Versace Hottie,spotify:track:6FmCiOJMEmx6dbmFyHJ2p0,,True,
-396,Kesha,Die Young,spotify:track:6mnjcTmK8TewHfyOp3fC9C,,True,
+396,Kesha,Die Young,spotify:track:6mnjcTmK8TewHfyOp3fC9C,,True,True
 397,$NOT,Mean,spotify:track:3PXi72ZtSqx1PZc40KS0Qj,,True,
 398,Poppy,Play Destroy,spotify:track:3X3FzrA32EbYvu3n3526w4,,True,
-399,Otoboke Beaver,Beaver Ni Tsuretette - Remastered 2018,spotify:track:2DeJA7ObVOsP7WjJGx79G4,,,
+399,Otoboke Beaver,Beaver Ni Tsuretette - Remastered 2018,spotify:track:2DeJA7ObVOsP7WjJGx79G4,,True,
 400,Kanye West,Drunk and Hot Girls,spotify:track:4Sw4lblE6aXpoOJma6Mlx5,,True,
 401,Mild High Club,Homage,spotify:track:7pegxVesMmE2qK0o58xoFG,,True,
 402,Maya B,Selenas,spotify:track:1XfH8yVbajh9dkU3nE7fCK,,True,
@@ -406,16 +406,16 @@
 404,Anamanaguchi,Miku,spotify:track:2wxeIeofgy4AHaOhtePamJ,,True,
 405,Fickle Friends,Rotation,spotify:track:0HIXq9nz3N6XaKUf9eWOPy,,True,
 406,"Tyler, The Creator",Radicals,spotify:track:5a2vYvmIWmtA8KcUTthpRk,,True,
-407,Kanye West,Get Em High,spotify:track:5b2FFKC64kxqcfaFnIZxoM,,,
+407,Kanye West,Get Em High,spotify:track:5b2FFKC64kxqcfaFnIZxoM,,True,
 408,BLACKSTARKIDS,"LOVE, STARGIRL",spotify:track:1AgJta10Dm76yA5uz7EuTV,,True,
 409,Unknown Mortal Orchestra,Necessary Evil,spotify:track:4dhARBZ8YLvm8oRDnCIeXr,,True,
 410,Two Door Cinema Club,I Can Talk,spotify:track:5R34yWuK4EWjy3l6IAfMFJ,,True,
-411,Delfín Quishpe,Torres Gemelas,spotify:track:68NI5JXY2vK9HOeBvUwr0e,,,
+411,Delfín Quishpe,Torres Gemelas,spotify:track:68NI5JXY2vK9HOeBvUwr0e,,True,
 412,PASSENGER OF SHIT,Staple Tape Worms on My Penis,spotify:track:7veiR3qo7k7m2GPQx0s7X1,,True,
 413,Drive45,Everything I Own,spotify:track:53FufLl4OfGMzdJv73Hpgg,,True,
 414,Charli XCX,Girls Night Out,spotify:track:7jspeyAKVWaBYvPGPe6u46,,True,
 415,Mlma,Sweetie,spotify:track:09LOrSenEZicFy6U5SIhfa,,True,
-416,The Internet,Girl (feat. KAYTRANADA),spotify:track:3PFaFVWq5wucLu6s4baj9D,,True,
+416,The Internet,Girl (feat. KAYTRANADA),spotify:track:3PFaFVWq5wucLu6s4baj9D,,True,True
 417,Rina Sawayama,Where U Are,spotify:track:3z8YW7Aza0dHLBgVUuj2ay,,True,
 418,LOONA,Hi High,spotify:track:0RqzUS7AkBhQDrBxcGFeDv,,True,
 419,Aminé,"Pressure In My Palms (feat. slowthai, Vince Staples)",spotify:track:2nWB8ZpA1lxulicEUzTQ6W,,True,
@@ -446,7 +446,7 @@
 444,Remi Wolf,Quiet On Set,spotify:track:7yjum1B7kQ8gFWTP0cqKMu,,True,
 445,Grimes,Pin,spotify:track:76g1dbRCF8OAC0gtBOjq8j,,True,
 446,Mitski,Brand New City,spotify:track:3PXTIwwI5dmlgrY0iYQq4J,,True,
-447,Consequence,Whatever U Want - Main,spotify:track:5Q7AE2cDrLQeRYsW4evb5N,,,
+447,Consequence,Whatever U Want - Main,spotify:track:5Q7AE2cDrLQeRYsW4evb5N,,True,
 448,Dounia,If U Wanna,spotify:track:3FdsBa4h5VcDDKuEiEoMzL,,True,
 449,Dounia,LOWKEY GRL (feat. Moroccan Doll),spotify:track:0QU9QwoeyqUcYIv0mbMNpz,,True,
 450,Vince Staples,Home,spotify:track:7pBsquIkbED6W6uSQJGbkn,,True,True
@@ -460,28 +460,28 @@
 458,Death Grips,I Break Mirrors With My Face In The United States,spotify:track:4hiTbBpSeWGkkBC7YlTY9w,,True,
 459,Dounia,Queen of Kings (Outro),spotify:track:7rvuykfOYtBmNxW2HuhuO7,,True,
 460,Kanye West,Nah Nah Nah (feat. DaBaby & 2 Chainz) - Remix,spotify:track:20m8ZHA6Jevqo1xnhQffQu,,,
-461,Knox Fortune,Lil Thing,spotify:track:4At1qbqCOJ9WFbvpWTOOY4,,,
-462,The Paper Kites,Bloom - Bonus Track,spotify:track:1HMQmOWrkieKYWlFsjUP3D,,,
+461,Knox Fortune,Lil Thing,spotify:track:4At1qbqCOJ9WFbvpWTOOY4,,True,
+462,The Paper Kites,Bloom - Bonus Track,spotify:track:1HMQmOWrkieKYWlFsjUP3D,,True,
 463,DJ これからの緊急災害,K-Hole with Fergie,spotify:track:4GvH13SpKIEgWK1OqhRhxy,,True,
 464,Doja Cat,Cookie Jar,spotify:track:4QdjPwwCCq3ifWVHiRj3jx,,True,
-465,Doja Cat,Ain't Shit,spotify:track:5lAnYvAIkSDNXqfo7DyFUm,,True,
+465,Doja Cat,Ain't Shit,spotify:track:5lAnYvAIkSDNXqfo7DyFUm,,True,True
 466,Soccer Mommy,Your Dog,spotify:track:3BpUZB0tw4zNmG3Iw1mclL,,True,
 467,Chloe x Halle,Forgive Me,spotify:track:0qU3XhIH9xczYPUWV6OopS,,True,
 468,Clean Bandit,Rather Be (feat. Jess Glynne),spotify:track:3s4U7OHV7gnj42VV72eSZ6,,True,True
-469,Kanye West,Follow God,spotify:track:2QpGZOhTCHHiKmpSO9FW4h,True,,
+469,Kanye West,Follow God,spotify:track:2QpGZOhTCHHiKmpSO9FW4h,True,True,True
 470,LIZ,Lottery,spotify:track:0IONRljAuf94GIkBhNKETP,,True,
 471,Yaeji,raingurl,spotify:track:4gRAniZdYF2zVrDUsNC9tU,,,
 472,Alice Longyu Gao,LEGEND - Gassed Up Remix,spotify:track:043R6gVEQtclGy8lZYzwJF,,True,
 473,AAAMYYY,屍を越えてゆけ,spotify:track:3eZH0LBqHYh6lUAQU2Xyab,,True,
 474,Vince Staples,Yeah Right,spotify:track:5ZrDbBB4UhYMsPA3xRKOzV,,True,
 475,KIDS SEE GHOSTS,Feel The Love,spotify:track:3aUFrxO1B8EW63QchEl3wX,True,True,True
-476,Sabrina Claudio,Better Version,spotify:track:6OYly4TGeYQFNXrt6Qh1JA,,,
-477,Kendrick Lamar,We Cry Together,spotify:track:0RAvy97QRPzO2AfK5Dw6j3,,,
-478,Kid Cudi,Erase Me - Main,spotify:track:6XkuklKiHYVTlVvWlTgQYP,True,,
+476,Sabrina Claudio,Better Version,spotify:track:6OYly4TGeYQFNXrt6Qh1JA,,True,
+477,Kendrick Lamar,We Cry Together,spotify:track:0RAvy97QRPzO2AfK5Dw6j3,,True,True
+478,Kid Cudi,Erase Me - Main,spotify:track:6XkuklKiHYVTlVvWlTgQYP,True,True,
 479,Kanye West,Homecoming,spotify:track:2ovQ5MCx91XVjgVWEPfvks,,True,
 480,Machine Girl,Ghost,spotify:track:4orMsymF399H3xKBc0AIhx,,True,
-481,Clairo,4EVER,spotify:track:5mIOsPuQdXchVY0jB5NO9Q,,True,
-482,Knox Fortune,Lil Thing,spotify:track:3q6ygCZID0OKj6MUxInB48,,,
+481,Clairo,4EVER,spotify:track:5mIOsPuQdXchVY0jB5NO9Q,,True,True
+482,Knox Fortune,Lil Thing,spotify:track:3q6ygCZID0OKj6MUxInB48,,True,
 483,Moneybagg Yo,Said Sum (feat. City Girls & DaBaby) - Remix,spotify:track:13VXVxePp4NUiXwtmQ0viz,,True,
 484,LIZ,Pandemonium,spotify:track:5nnllOU9tiGPtAzzyOYkvG,,True,
 485,Yelle,Ba$$in,spotify:track:2Ab2xJJw3hcXBi7LZM3PC5,,True,
@@ -490,7 +490,7 @@
 488,Mitski,Francis Forever,spotify:track:6gpSU2C1VJq0xaVIGtQPVi,,True,
 489,Black Eyed Peas,Imma Be,spotify:track:5OiLJ8tjUPFiPX2gVM8fxJ,,True,
 490,Black Box,Everybody Everybody,spotify:track:24lF0of2nbQlTYDU8i6glX,,True,
-491,Childish Gambino,53.49,spotify:track:2alJKJoqOOEPVU1Do3eIjJ,,,
+491,Childish Gambino,53.49,spotify:track:2alJKJoqOOEPVU1Do3eIjJ,,True,
 492,Princess Nokia,Harley Quinn,spotify:track:0FCECeOtvMAGosjKB08s28,,True,
 493,Rina Sawayama,Alterlife,spotify:track:6nrqxuvk571m7JGPbeEfda,,True,
 494,SOPHIE,Ponyboy,spotify:track:30lIB7UwSLy5qgkfYZEtB1,,True,
@@ -513,14 +513,14 @@
 511,Vince Staples,SAMO,spotify:track:7ei3g8ZUH6C3IELNhwI9R0,,True,
 512,Kanye West,No Mistakes,spotify:track:35KV2Nuib6jPMVN00O8iba,,True,True
 513,Kanye West,Don't Like.1,spotify:track:12D0n7hKpPcjuUpcbAKjjr,,True,
-514,BETWEEN FRIENDS,better friends,spotify:track:3zV2AEuJETO2BlgZkCn7QK,,True,
+514,BETWEEN FRIENDS,better friends,spotify:track:3zV2AEuJETO2BlgZkCn7QK,,True,True
 515,Kanye West,Monster,spotify:track:1ZHYJ2Wwgxes4m8Ba88PeK,True,True,True
 516,SOPHIE,Not Okay - Alone Mix,spotify:track:2rItExC2Ht8PcgMV0lqbf8,,True,
 517,Rina Sawayama,Bad Friend,spotify:track:1ApN1loxlt0rzRFc8iETw7,,True,
 518,Tove Lo,"bitches (feat. Charli XCX, Icona Pop, Elliphant, ALMA)",spotify:track:0S0rlh59DhpPheILyXYX76,,True,
-519,Kanye West,Paranoid,spotify:track:0w2piYWj1F2bzUftzGJgK9,True,,
+519,Kanye West,Paranoid,spotify:track:0w2piYWj1F2bzUftzGJgK9,True,True,
 520,Eurythmics,Sweet Dreams (Are Made of This) - Remastered,spotify:track:1TfqLAPs4K3s2rJMoCokcS,,True,
-521,Cafuné,Letting Go,spotify:track:71PQ5HbyifooqoPMDd0UdF,,True,
+521,Cafuné,Letting Go,spotify:track:71PQ5HbyifooqoPMDd0UdF,,True,True
 522,Vince Staples,Lemme Know,spotify:track:1u1VcXquBfZfu7dc8PVYVc,,True,
 523,GameChops,Cherry Blossom Color Season,spotify:track:1NFy6683I19ukTuTxNZFis,,True,
 524,"Tyler, The Creator",DEATHCAMP (feat. Cole Alexander),spotify:track:1dXYBALYTj3AMxa8hgiQhA,,True,
@@ -546,9 +546,9 @@
 544,Azealia Banks,Anna Wintour,spotify:track:0U0266U8qEvuhZnHIYZKwd,,True,
 545,Doja Cat,Get Into It (Yuh),spotify:track:0FYc9DIr89rbzt2WJMvyou,True,True,
 546,Aphex Twin,Xtal,spotify:track:7o2AeQZzfCERsRmOM86EcB,,True,
-547,Kanye West,On Sight,spotify:track:1gqkRc9WtOpnGIqxf2Hvzr,,,
-548,Goldie Boutilier,He Thinks That I'm an Angel,spotify:track:3s7IGYxf9eqxpGADqjpkyn,,,
-549,Kanye West,Spaceship,spotify:track:1ko2NuvWlQdxtNRc8QQzmT,,,True
+547,Kanye West,On Sight,spotify:track:1gqkRc9WtOpnGIqxf2Hvzr,,True,
+548,Goldie Boutilier,He Thinks That I'm an Angel,spotify:track:3s7IGYxf9eqxpGADqjpkyn,,True,
+549,Kanye West,Spaceship,spotify:track:1ko2NuvWlQdxtNRc8QQzmT,,True,True
 550,Kero Kero Bonito,The Princess and the Clock,spotify:track:1o1aFykyi3d4qQPxDcPCJ7,,True,
 551,Chloe x Halle,Do It,spotify:track:1bRjwdtScY2eMe9uMmsOkG,,True,
 552,Daft Punk,"Harder, Better, Faster, Stronger",spotify:track:5W3cjX2J3tjhG8zb6u0qHn,,True,
@@ -558,7 +558,7 @@
 556,Randa,Heatwave,spotify:track:0aGbjADuRz7IUuZD5MZ4F6,,True,
 557,Death Grips,Lil Boy,spotify:track:6fab5rAf9v58GR8P2Q1o1s,,True,
 558,Death Grips,I've Seen Footage,spotify:track:7nCONy10IHp7XD3oYZ0lcx,,True,
-559,Pixies,Where Is My Mind?,spotify:track:0KzAbK6nItSqNh8q70tb0K,,,
+559,Pixies,Where Is My Mind?,spotify:track:0KzAbK6nItSqNh8q70tb0K,,True,
 560,Flamingosis,Groovin',spotify:track:01TeWe9FtQOOoO1xD8idoU,,True,
 561,GameChops,Roll Me In,spotify:track:6H2NkE3V5QzHbHkYdaRm2W,,True,
 562,Big Thief,Simulation Swarm,spotify:track:2FwDApgXk91kXvqy2oB7dz,,True,
@@ -569,19 +569,19 @@
 567,Flo Milli,Pockets Bigger,spotify:track:6qwlA0caBeRjIlaqnucLrC,,True,
 568,YOU LOVE HER,Spitting Glass,spotify:track:7r1vMKvaKeR5hxRGFEujaH,,True,
 569,Sleigh Bells,Holly,spotify:track:5rHts9z54qL4ih7lt6CuZf,,True,
-570,Mike Dimes,HOME,spotify:track:2WnPietHTd9hrIPbZnpoHL,,,
+570,Mike Dimes,HOME,spotify:track:2WnPietHTd9hrIPbZnpoHL,,True,
 571,Still Woozy,Goodie Bag,spotify:track:4vHNeBWDQpVCmGbaccrRzi,True,True,
-572,Glee Cast,Party All the Time (Glee Cast Version) (feat. Gwyneth Paltrow),spotify:track:5PDLtrTRNJAZu8dTKEfMff,,,
+572,Glee Cast,Party All the Time (Glee Cast Version) (feat. Gwyneth Paltrow),spotify:track:5PDLtrTRNJAZu8dTKEfMff,,True,
 573,Death Grips,Giving Bad People Good Ideas,spotify:track:3rkBaypKGiemuTeZSRCBKk,,True,
 574,JPEGMAFIA,ROUGH 7,spotify:track:0ekzigrO6pKmtR2sOc9PW7,,True,
 575,The Marías,Calling U Back,spotify:track:5WVWQQpBJqljbZtxo19CxS,,True,
 576,LIZ,When I Rule the World,spotify:track:7nu0Lc0jJltztDxsGeoPiG,,True,
 577,Kali Uchis,¡aquí yo mando!,spotify:track:1kmFdSFT6kcyzdIq445Iww,,True,
-578,Kanye West,Bring Me Down,spotify:track:25K9cWrxNv991UYiOzBJqR,,,
+578,Kanye West,Bring Me Down,spotify:track:25K9cWrxNv991UYiOzBJqR,,True,
 579,LIZ,Lost U 2 the Boys,spotify:track:226sq19uLZhnN6UzU0ZN04,,True,
 580,The Marías,I Like It,spotify:track:3Vm6yiTPfhFeUHD4gt42cZ,,True,
 581,Vendredi sur Mer,Écoute Chérie,spotify:track:1zyUz3eZ3sytdaR9lfW17q,,True,
-582,CHAI,N.E.O.,spotify:track:4EqaFid5RyRkC5LlTp7Lul,,,
+582,CHAI,N.E.O.,spotify:track:4EqaFid5RyRkC5LlTp7Lul,,True,
 583,Vince Staples,TAKE ME HOME,spotify:track:3RXGbZhy0Hyur2mSVDlu51,,True,
 584,Rico Nasty,Pussy Poppin (I Don't Really Talk Like This),spotify:track:0Hb2KGmwZez23POGBw2Xc2,,True,
 585,Kero Kero Bonito,When The Fires Come,spotify:track:0M6rITkLFIAMXPZWHpvJ7I,,True,
@@ -596,10 +596,10 @@
 594,Asian Doll,Itty Bitty Bitches - Asian Doll Remix,spotify:track:2uww1QnLJtNgP5xXlqfNx0,,True,
 595,Amy Winehouse,Addicted,spotify:track:7or26qS3BfpTtWO3BFw5GE,,True,
 596,Car Seat Headrest,Fill in the Blank,spotify:track:0SVvyfRMFMRJzc0L2odX20,,True,
-597,DAISY,DAYDREAMING,spotify:track:05RfpPTgjYosszbrhtpVLO,,,
+597,DAISY,DAYDREAMING,spotify:track:05RfpPTgjYosszbrhtpVLO,,True,
 598,Rihanna,Same Ol’ Mistakes,spotify:track:6Z2jgMpqSzKsZkyBWqYkv8,,True,
 599,Toby Fox,Death By Glamour,spotify:track:7BGZ27yeaKR5OZOIxyegZi,,True,
-600,Flipp Dinero,Leave Me Alone,spotify:track:6V7g6qM8wheMivMWrzbPTM,True,True,
+600,Flipp Dinero,Leave Me Alone,spotify:track:6V7g6qM8wheMivMWrzbPTM,True,True,True
 601,Danny Brown,Dip,spotify:track:29Zj1r8cek15xe08vNUOLy,,True,
 602,Kanye West,I Love It (& Lil Pump),spotify:track:4S8d14HvHb70ImctNgVzQQ,True,True,
 603,Tim Hox,Amare,spotify:track:6HZSQv4KQ6YHZK6bu75MJz,True,,
@@ -619,9 +619,9 @@
 617,NOTD,So Close,spotify:track:7FjZU7XFs7P9jHI9Z0yRhK,True,,
 618,Justin Bieber,Get Me (feat. Kehlani),spotify:track:5VwwpU7KsLhgfbMEecedhJ,True,,True
 619,Anderson .Paak,Fire In The Sky,spotify:track:3zpGIFghtnVlwMXWyKW474,,,
-620,Charlie Puth,Attention,spotify:track:4iLqG9SeJSnt0cSPICSjxv,True,,
+620,Charlie Puth,Attention,spotify:track:4iLqG9SeJSnt0cSPICSjxv,True,,True
 621,Polo G,RAPSTAR,spotify:track:43PGPuHIlVOc04jrZVh9L6,True,,
-622,Kendrick Lamar,ELEMENT.,spotify:track:1EaKU4dMbesXXd3BrLCtYG,True,,
+622,Kendrick Lamar,ELEMENT.,spotify:track:1EaKU4dMbesXXd3BrLCtYG,True,,True
 623,Juice WRLD,Wandered To LA (with Justin Bieber),spotify:track:5J6rTmMjF9DVIAF8G3M9n4,True,,True
 624,TAEYANG,"눈,코,입 (Eyes, Nose, Lips)",spotify:track:0lYtIvI7bO51PZSeK22Mbz,True,,True
 625,Polo G,Bad Man (Smooth Criminal),spotify:track:6RfhBNU1FPWTG7VESlfgOl,True,,
@@ -630,32 +630,32 @@
 628,MadeinTYO,Skateboard P,spotify:track:4qdgv45EPcQqpQ08tF34f8,True,,
 629,Galantis,Tu Tu Tu (That's Why We),spotify:track:3qY5bS9bKs5HedrAiWfP6x,True,,
 630,The Chainsmokers,Somebody,spotify:track:0fTiDOXRNEN0lUeYGoSHml,True,,
-631,MitiS,Follow You,spotify:track:39HR1Y2wLu0GBwD5dbdDu5,True,,
+631,MitiS,Follow You,spotify:track:39HR1Y2wLu0GBwD5dbdDu5,True,,True
 632,Meek Mill,Open (feat. Verse Simmonds),spotify:track:0i930ZNJTKVgSAZQKzonJf,True,,
 633,ACRAZE,Do It To It,spotify:track:20on25jryn53hWghthWWW3,True,,True
 634,Kina Grannis,Can’t Help Falling in Love,spotify:track:7uuEfUMuPeQ7RlSWa0cES2,,,
-635,Martin Garrix,Oxygen,spotify:track:2ZG0Wumvp291QIsQ9YXzHl,True,,
-636,Kanye West,No Child Left Behind,spotify:track:3onYsG7nB3FwEVHYYWCrIM,True,,
-637,The Weeknd,Is There Someone Else?,spotify:track:0mL82sxCRjrs3br407IdJh,True,,
+635,Martin Garrix,Oxygen,spotify:track:2ZG0Wumvp291QIsQ9YXzHl,True,,True
+636,Kanye West,No Child Left Behind,spotify:track:3onYsG7nB3FwEVHYYWCrIM,True,True,
+637,The Weeknd,Is There Someone Else?,spotify:track:0mL82sxCRjrs3br407IdJh,True,,True
 638,Young Thug,Hot (feat. Gunna),spotify:track:5Z8HZM6iQMhhqyPcCGY5g9,True,,
 639,NAV,Know Me,spotify:track:2e3oSed7fWKJ63VCxtMAAH,True,,
 640,Sam Smith,Too Good At Goodbyes,spotify:track:7oAraczbemGSNWqnbkU87R,True,,True
 641,Aminé,Places + Faces,spotify:track:1iTbIO32m3hmY8he7gkPiy,True,,
-642,Zedd,Ignite - 2016 League Of Legends World Championship,spotify:track:39rqDP2s2hN1JtXptyeM3u,True,,
+642,Zedd,Ignite - 2016 League Of Legends World Championship,spotify:track:39rqDP2s2hN1JtXptyeM3u,True,,True
 643,Travis Scott,SKELETONS,spotify:track:6NMtzpDQBTOfJwMzgMX0zl,True,,
 644,Mike Perry,The Ocean (feat. Shy Martin),spotify:track:2CPqh63wRVscbceKcPxwvv,True,,
 645,REASON,Show Stop,spotify:track:779bZ6dEbYnVU7gMmEtgFP,True,,
 646,Internet Money,Somebody,spotify:track:735RSTb2xbtWbDtKD9XDYi,True,,
 647,Abhi The Nomad,FEUD,spotify:track:25amAN0VbvreKt3NwWIH4m,True,,
-648,Trippie Redd,Topanga,spotify:track:5aXgz1oKK8Q9z9xvTmSnrO,True,,
+648,Trippie Redd,Topanga,spotify:track:5aXgz1oKK8Q9z9xvTmSnrO,True,True,
 649,Dawid Podsiadło,Let You Down,spotify:track:1qpGMJi0ippCaMUOs7cz2q,True,,
 650,Dabin,Alive,spotify:track:0XtnjngdyPgVxb9qXBUeJh,True,,True
 651,FLETCHER,Undrunk,spotify:track:5SHhPFh68OhUmuRPymKX9d,True,,
 652,J. Cole,1 0 0 . m i l ‘ (with Bas),spotify:track:4n6NDfYake476trCjJRNl0,True,,
-653,The Weeknd,Out of Time,spotify:track:2SLwbpExuoBDZBpjfefCtV,True,,
-654,Meek Mill,Dangerous (feat. Jeremih and PnB Rock),spotify:track:1lL7Sj9AitQT7YWXs6obEq,True,,
+653,The Weeknd,Out of Time,spotify:track:2SLwbpExuoBDZBpjfefCtV,True,True,True
+654,Meek Mill,Dangerous (feat. Jeremih and PnB Rock),spotify:track:1lL7Sj9AitQT7YWXs6obEq,True,,True
 655,Pink Sweat$,Midnight River (feat. 6LACK),spotify:track:5HphhcOuLFWBj9IghbrKJB,True,,True
-656,Childish Gambino,IV. Sweatpants,spotify:track:00GOPLxW4PGQuUYdPJh8K1,True,,
+656,Childish Gambino,IV. Sweatpants,spotify:track:00GOPLxW4PGQuUYdPJh8K1,True,True,
 657,MARINA,About Love - From The Netflix Film “To All The Boys: P.S. I Still Love You”,spotify:track:4XII12nbsvJblXfG1I2QR4,True,,
 658,Lil Wayne,Trust Nobody (ft. Adam Levine),spotify:track:5BVVgL1FJ0wAEyNH0Mc8yX,True,,
 659,NAV,Tap (feat. Meek Mill),spotify:track:1xkMNjOFNCw3OCI7Gtjpjb,True,,
@@ -668,7 +668,7 @@
 666,Big Sean,Living Single,spotify:track:36xxq7VDZZsGwARsn6Clo7,True,,
 667,Louis The Child,Better Not (with Wafia),spotify:track:7n1940b6kHcaEewFSZXnXa,True,,True
 668,NEIKED,Better Days (NEIKED x Mae Muller x Polo G),spotify:track:6f5ExP43esnvdKPddwKXJH,True,,True
-669,Gryffin,Bye Bye (feat. Ivy Adara),spotify:track:676eXXtx6I7yxaDfXvMpjK,True,,
+669,Gryffin,Bye Bye (feat. Ivy Adara),spotify:track:676eXXtx6I7yxaDfXvMpjK,True,,True
 670,Kap G,Marvelous Day (feat. Lil Uzi Vert & Gunna),spotify:track:4kfEy7h6bWBS5OaDpccTap,True,,
 671,Post Malone,Congratulations,spotify:track:3a1lNhkSLSkpJE4MSHpDu9,True,,True
 672,Buddy,Black (feat. A$AP Ferg),spotify:track:5We8lGFNpA1IkHAfIJU9XM,True,,
@@ -677,7 +677,7 @@
 675,Arizona Zervas,ROXANNE,spotify:track:696DnlkuDOXcMAnKlTgXXK,True,True,True
 676,Tee Grizzley,Wake Up (feat. Chance the Rapper),spotify:track:1MfNF3rf2SvI7B8fYhLEE7,True,,
 677,Adam Jensen,Sandcastles,spotify:track:0lh4oNgVBGnJ5LkjYwhHdk,,,
-678,Kanye West,Street Lights,spotify:track:6j8gTlbhj9KJSeypNcNAS9,True,,True
+678,Kanye West,Street Lights,spotify:track:6j8gTlbhj9KJSeypNcNAS9,True,True,True
 679,Ukiyo,The Middle,spotify:track:3iSqkvJmmEfvG65MI0Ua8R,True,,
 680,DOLF,If I Die,spotify:track:50nQvrEGglpXk3ng6AYjQ5,True,,
 681,Nebu Kiniza,Gassed Up,spotify:track:6JjEVlMkfHWMeYavkEYzNO,True,,
@@ -685,7 +685,7 @@
 683,Cordae,Wassup (feat. Young Thug),spotify:track:7MC00oCO5s39O43WdUgwfA,True,,
 684,Russ,Losin Control,spotify:track:4cxMGhkinTocPSVVKWIw0d,True,,True
 685,NIKI,odds,spotify:track:6PUtUVzOu0Wj6RvoJKini9,True,,
-686,Joji,Will He,spotify:track:6i3K9JRY0Bc6kZZeyMuikL,True,,
+686,Joji,Will He,spotify:track:6i3K9JRY0Bc6kZZeyMuikL,True,,True
 687,IU,LILAC,spotify:track:5xrtzzzikpG3BLbo4q1Yul,True,,
 688,Justin Bieber,Lonely (with benny blanco),spotify:track:4y4spB9m0Q6026KfkAvy9Q,True,,
 689,Kodak Black,Tunnel Vision,spotify:track:4Q3N4Ct4zCuIHuZ65E3BD4,True,,
@@ -693,13 +693,13 @@
 691,Kygo,I'll Wait,spotify:track:6Q3K9gVUZRMZqZKrXovbM2,True,,
 692,Higher Brothers,WeChat,spotify:track:49iftzwMkjN6d8YI7fsB7t,True,,
 693,FBG GOAT,17 Dayz 17 Nightz,spotify:track:5vKPRsOdPchNC6dq2vEslM,True,,
-694,Aaron Smith,Dancin - Krono Remix,spotify:track:4IlqQhaxrGPxmg35YcXXuS,True,,
+694,Aaron Smith,Dancin - Krono Remix,spotify:track:4IlqQhaxrGPxmg35YcXXuS,True,,True
 695,Uzuhan,Uzutrap,spotify:track:2L964VShliCkancW0Q46B3,,,
 696,Jorja Smith,Blue Lights,spotify:track:1It1TxBK3xIQAB4xJkPevn,True,,
 697,EVERGLOW,Adios,spotify:track:5uHl2eYaITSX6xEX8bmaXy,True,,True
-698,Lorde,Liability,spotify:track:4JyLFq2mHC8JPFTXHwYPWD,True,True,
-699,Jaden,PCH,spotify:track:4bFTxLslBZUNC3Eti9aAtM,True,,
-700,SLANDER,Superhuman,spotify:track:6jQPolTBq89z9AHrMrmYpS,True,,
+698,Lorde,Liability,spotify:track:4JyLFq2mHC8JPFTXHwYPWD,True,True,True
+699,Jaden,PCH,spotify:track:4bFTxLslBZUNC3Eti9aAtM,True,,True
+700,SLANDER,Superhuman,spotify:track:6jQPolTBq89z9AHrMrmYpS,True,,True
 701,The Kid LAROI,ATTENTION,spotify:track:5JrljwNvTFN6y7b5a5Nzq7,True,,True
 702,Adele,Easy On Me,spotify:track:0gplL1WMoJ6iYaPgMCL0gX,True,,True
 703,Ekali,Blame,spotify:track:089tprIgsyFSOrZpugamLI,True,,True
@@ -707,12 +707,12 @@
 705,ARMNHMR,WANT U,spotify:track:4gA8RYIv4IG31JqKUM0QnW,True,,True
 706,The Kid LAROI,"F*CK YOU, GOODBYE (feat. Machine Gun Kelly)",spotify:track:59Y0p04ejSaryeMpEpxXBO,True,,
 707,2 Chainz,It's A Vibe,spotify:track:6H0AwSQ20mo62jGlPGB8S6,True,,
-708,Childish Gambino,3005,spotify:track:2ZltjIqztEpZtafc8w0I9t,True,,True
+708,Childish Gambino,3005,spotify:track:2ZltjIqztEpZtafc8w0I9t,True,True,True
 709,Troye Sivan,Dance To This (feat. Ariana Grande),spotify:track:1NbGcdgwRHZ5rbPIT9hdR3,,,
 710,MitiS,Homesick (feat. SOUNDR),spotify:track:1lypBFGiKyft1PVgNp358Y,True,,
 711,A$AP Rocky,Too Many Gods,spotify:track:0fhoeNTlGRZgNlwfVLauFs,True,,
 712,J Balvin,Mi Gente,spotify:track:4ipnJyDU3Lq15qBAYNqlqK,True,,
-713,Famous Dex,JAPAN,spotify:track:5PTG6rrL6EPFD9E2QMI2pl,True,,
+713,Famous Dex,JAPAN,spotify:track:5PTG6rrL6EPFD9E2QMI2pl,True,,True
 714,Travis Scott,HOUSTONFORNICATION,spotify:track:58TaFP5j5i9swOf584yon2,True,,
 715,Soulja Boy,She Make It Clap - Remix,spotify:track:0S7eavOH2yPKEotR7SYpob,True,,
 716,R3HAB,Killing Time,spotify:track:5XVO2yXESFgE9og4IwrILf,True,,
@@ -721,8 +721,8 @@
 719,A.CHAL,Round Whippin',spotify:track:3CCyOANoEy4UvUgPYFv1uV,True,,
 720,Calboy,Envy Me,spotify:track:7rvyVWja33WG9R97oeJAjx,True,,True
 721,Conan Gray,Telepath,spotify:track:3Z39gbqdaGL3WJXBG0gcuE,True,,
-722,Cordae,Kung Fu,spotify:track:1eEYbTvRWPEozV0ttNO0NC,True,,
-723,Linked Horizon,Shinzo wo Sasageyo!,spotify:track:5uraJqtCBvLpwt3VeomZdq,True,,
+722,Cordae,Kung Fu,spotify:track:1eEYbTvRWPEozV0ttNO0NC,True,,True
+723,Linked Horizon,Shinzo wo Sasageyo!,spotify:track:5uraJqtCBvLpwt3VeomZdq,True,,True
 724,88rising,Midsummer Madness,spotify:track:6TodWdTSDfzwgYynTZSvJn,True,,True
 725,KIDS SEE GHOSTS,Feel The Love,spotify:track:3aUFrxO1B8EW63QchEl3wX,True,True,True
 726,BLACKPINK,Love To Hate Me,spotify:track:7iKDsPfLT0d5mu2htfMKBZ,True,,
@@ -740,30 +740,30 @@
 738,Y2K,Lalala,spotify:track:51Fjme0JiitpyXKuyQiCDo,True,,
 739,G-Eazy,Moana,spotify:track:1Tfxi7N3DW4zvAuVjt9g8X,True,,
 740,Don Toliver,HAD ENOUGH (feat. Quavo & Offset),spotify:track:7LGWmZaoS7jZJ5tEi9EcDi,True,,
-741,Drake,Gyalchester,spotify:track:6UjfByV1lDLW0SOVQA4NAi,True,,
+741,Drake,Gyalchester,spotify:track:6UjfByV1lDLW0SOVQA4NAi,True,,True
 742,Marian Hill,Down,spotify:track:5eCkuGPZNl4mISFNPgr3Dd,True,,
 743,Justin Bieber,Come Around Me,spotify:track:2o9LAypwGH4ctV0i9boo6d,True,,
 744,Tones And I,The Kids Are Coming,spotify:track:76bvw5EDyhm1b3dfsOToYG,True,,
 745,Jarreau Vandal,Someone That You Love,spotify:track:3S2LNcyJre3hvJbPTcoghO,True,,
 746,Noah Cyrus,Live or Die,spotify:track:0OiXVxQHUFxvYxQew4xyhD,,,
 747,Sam Tompkins,Whole,spotify:track:2JZixjPnrQ67VOPQRDKSmH,True,,
-748,Martin Garrix,Won’t Let You Go,spotify:track:5UZA39t4lX42ApegVubl7f,True,,
+748,Martin Garrix,Won’t Let You Go,spotify:track:5UZA39t4lX42ApegVubl7f,True,,True
 749,Yung Bae,"Bad Boy (with Wiz Khalifa, bbno$, MAX)",spotify:track:09Mxpg8wkI1ynsc3sVDiUU,True,,
 750,A$AP Twelvyy,Diamonds (feat. A$AP Rocky),spotify:track:5G4JadFe3Kg1Tiwrw8yRcn,True,,
 751,benny blanco,Graduation (with Juice WRLD),spotify:track:6cjSh516BbrNUs213jDAGm,,,
 752,Aerosmith,Walk This Way,spotify:track:5SZ6zX4rOrEQferfFC2MfP,True,,
 753,Travis Scott,Watch (feat. Lil Uzi Vert & Kanye West),spotify:track:3DoBTwfr8yi2LN08SBpFkN,True,,
-754,Empire of the Sun,Alive,spotify:track:4w94do2H8MHiFJvIYF24VT,True,,
+754,Empire of the Sun,Alive,spotify:track:4w94do2H8MHiFJvIYF24VT,True,,True
 755,Jaden,Chateau,spotify:track:2mbAFKj9gePjW91G1WH3sp,True,,
 756,michel ko,Shy,spotify:track:7rC5wanfy9OOtsYbGUbzgg,True,,
-757,SLANDER,When I'm With You (feat. neverwaves),spotify:track:6bKr1OdjfJq2zv297uQlCq,True,,
+757,SLANDER,When I'm With You (feat. neverwaves),spotify:track:6bKr1OdjfJq2zv297uQlCq,True,,True
 758,R3HAB,Creep - mint Singles,spotify:track:5LRxdeykOfvKb1aWGrrGyo,True,,
 759,Shanti Dope,Amatz,spotify:track:59aZ0ioyVrmtdut1KfU5aT,True,,
 760,Lil Skies,Bad Girls (feat. Gucci Mane),spotify:track:0hCHNYL8ApQCGNwJrYN1FY,True,,
 761,XXXTENTACION,whoa (mind in awe),spotify:track:7pdF27mSDuPWhppnHAmWHa,True,,True
 762,ROLE MODEL,minimal,spotify:track:28sNP4vXS6EtFr2VKPhCTQ,True,,
 763,J. Cole,KOD,spotify:track:7yotKA30dwTKNEGomV9ZsI,True,,
-764,Martin Garrix,Love Runs Out (feat. G-Eazy & Sasha Alex Sloan),spotify:track:3jbAzLVcHiI5hYSkcKe1Ty,True,,
+764,Martin Garrix,Love Runs Out (feat. G-Eazy & Sasha Alex Sloan),spotify:track:3jbAzLVcHiI5hYSkcKe1Ty,True,,True
 765,Kane Brown,Memory - Feather Remix,spotify:track:1Wpe3EXorasdlnzUOX472Z,True,,
 766,The Weeknd,Less Than Zero,spotify:track:2D4dV2KXDTszzJ3p3cFqhA,True,,
 767,Kanye West,Violent Crimes,spotify:track:2VYb3Fb5iK5Y8HGZ8oEEkp,True,True,True
@@ -772,9 +772,9 @@
 770,NAV,Wanted You (feat. Lil Uzi Vert),spotify:track:790MhTXPFrYkrqCKvpg4t1,True,,True
 771,Rae Sremmurd,Powerglide (feat. Juicy J) - From SR3MM,spotify:track:1BuZAIO8WZpavWVbbq3Lci,True,,True
 772,Tai Verdes,Stuck In The Middle,spotify:track:4y3BUo2hp0MxylfbUaqRyJ,True,,
-773,Drake,Can’t Take A Joke,spotify:track:7cfvP13Bqb1EyCZQiYsLum,True,,
+773,Drake,Can’t Take A Joke,spotify:track:7cfvP13Bqb1EyCZQiYsLum,True,,True
 774,Camila Cabello,Havana (feat. Young Thug),spotify:track:0ofbQMrRDsUaVKq2mGLEAb,True,,True
-775,Lil Mosey,Blueberry Faygo,spotify:track:22LAwLoDA5b4AaGSkg6bKW,True,,
+775,Lil Mosey,Blueberry Faygo,spotify:track:22LAwLoDA5b4AaGSkg6bKW,True,,True
 776,KSHMR,Around the World (feat. NOUMENN) [Official Sunburn Goa Anthem 2021],spotify:track:6ZX8X4GRnIAOPQs3vduWHH,True,,
 777,Yeezy Activist,Baby Call Out,spotify:track:2yJvdipndAlsJj3zWmpb76,,,
 778,Kygo,Stargazing,spotify:track:0Zbbxnx4SGGHoIow4PpISP,True,,
@@ -795,9 +795,9 @@
 793,Thekidszn,Leave Me Alone,spotify:track:5iX1FIxAdb3YoWP846kjvP,True,,
 794,Rex Orange County,New House,spotify:track:79yScU3wNnv2yPF3awYqnU,,,
 795,Big Sean,Halfway Off The Balcony,spotify:track:4atJ40xfasjdM9ZF3p07BV,True,,
-796,Justin Bieber,Hold On,spotify:track:4u4NyuceXP7Uzh7XFJKCr1,True,True,
+796,Justin Bieber,Hold On,spotify:track:4u4NyuceXP7Uzh7XFJKCr1,True,True,True
 797,Seven Lions,First Time (feat. Dylan Matthew),spotify:track:27YD36FUikKxbp3bKSiKGZ,True,,True
-798,Jaden,Rainbow Bap,spotify:track:0hmA5UgR7wphVWN83AVDgF,True,,
+798,Jaden,Rainbow Bap,spotify:track:0hmA5UgR7wphVWN83AVDgF,True,,True
 799,Empire of the Sun,Walking On A Dream,spotify:track:0mBkoM8r7KAQzZij5swTUL,True,,
 800,Juice WRLD,Reminds Me Of You,spotify:track:5YSHygGN9D0mID1NsVd5my,True,,
 801,Bazzi,Young & Alive,spotify:track:5RsKelNxucrDxgMbZ3vd3W,True,,
@@ -813,7 +813,7 @@
 811,Kota the Friend,Colorado,spotify:track:3DbBgbnDUOml329rAp2Tbr,True,,True
 812,Bruno Mars,Smokin Out The Window,spotify:track:4iN16F8JtVxG2UTzp3avGl,True,True,True
 813,Lil Nas X,TALES OF DOMINICA,spotify:track:5S4PZ7AuYlYiVIVik3wHUf,True,,
-814,SAINt JHN,Roses - Imanbek Remix,spotify:track:7fPuWrlpwDcHm5aHCH5D9t,True,,
+814,SAINt JHN,Roses - Imanbek Remix,spotify:track:7fPuWrlpwDcHm5aHCH5D9t,True,,True
 815,Fiji Blue,I Should've Told You,spotify:track:5Q9KfZHV6BZZLQzhKpfPpq,True,,
 816,Sheff G,On Go (feat. Polo G),spotify:track:3Ho13bRS28xEvGvgW4LOFM,True,,
 817,Yung Booke,Put That Shit On,spotify:track:22uSriiiyQraLjiw9LvJHM,True,,
@@ -824,61 +824,61 @@
 822,Travis Scott,goosebumps,spotify:track:6gBFPUFcJLzWGx4lenP6h2,True,,True
 823,21 Savage,Immortal,spotify:track:4IO8X9W69dIQe0EC5ALXhq,True,,
 824,Bearson,It's Not This,spotify:track:12ZC7GrMQNo6xXJdN89d8P,True,,
-825,ILLENIUM,Good Things Fall Apart (with Jon Bellion),spotify:track:6pooRNiLyYpxZeIA5kJ5EX,True,,
+825,ILLENIUM,Good Things Fall Apart (with Jon Bellion),spotify:track:6pooRNiLyYpxZeIA5kJ5EX,True,,True
 826,MitiS,Try (feat. RØRY),spotify:track:2qS7S9ramy7bLIiM71eXVX,True,,
-827,Jack Harlow,SUVs (Black on Black),spotify:track:1MIGkQxcdAt2lDx6ySpsc5,True,,
-828,DVBBS,Swim,spotify:track:6qsZogIYZl976t9RyRqPjO,True,,
+827,Jack Harlow,SUVs (Black on Black),spotify:track:1MIGkQxcdAt2lDx6ySpsc5,True,,True
+828,DVBBS,Swim,spotify:track:6qsZogIYZl976t9RyRqPjO,True,,True
 829,Petit Biscuit,Sunset Lover,spotify:track:0hNduWmlWmEmuwEFcYvRu1,True,,True
 830,Aries,KIDS ON MOLLY,spotify:track:4CbRVZuohuxJPMqvvWb2lT,True,,
 831,H.E.R.,Slide,spotify:track:2rTnVB1bvwxHtaIl4uVu7f,True,,True
 832,Imagine Dragons,Natural,spotify:track:2FY7b99s15jUprqC0M5NCT,True,,True
 833,Magic Power,射手,spotify:track:2AKqbtVArdppbDyXSlQ1La,True,,
-834,Kanye West,Selah,spotify:track:39JRmdKFka1Oe09FoOCPI4,,,
+834,Kanye West,Selah,spotify:track:39JRmdKFka1Oe09FoOCPI4,,True,
 835,The Weeknd,Scared To Live,spotify:track:4BGZF4oLbTL0pWm7C18pbv,True,,
 836,Unlike Pluto,Everything Black,spotify:track:3UEnF6y5tyHVtMzldS3svp,True,,
 837,ILLENIUM,Crazy Times,spotify:track:65Ue0jbK1lhMuWc9XfVanh,True,,
 838,Rich The Kid,Tic Toc (with Tory Lanez),spotify:track:7cWmR9RLLMY6bj28q4bhvz,True,,
 839,Marshmello,Project Dreams,spotify:track:6GSkLS2y4ZnnZsuRAj975K,True,,
-840,Joji,XNXX,spotify:track:0qpSvzE0Rws3gVZNZCf04v,,,
+840,Joji,XNXX,spotify:track:0qpSvzE0Rws3gVZNZCf04v,,,True
 841,Machine Gun Kelly,"Home (with Machine Gun Kelly, X Ambassadors & Bebe Rexha)",spotify:track:0OI7AFifLSoGzpb8bdBLLV,True,,
 842,Abhi The Nomad,Sex n' Drugs,spotify:track:0G2wimhVoDYXbQ6csDxtSf,True,,
 843,NAV,Held Me Down,spotify:track:0jiW3PNiHJxOhWh9oPBJ7m,True,,
-844,Martin Garrix,There for You,spotify:track:6jA8HL9i4QGzsj6fjoxp8Y,True,,
-845,Kanye West,Ok Ok pt 2,spotify:track:1QCqedB1ibmRO9x7Ikb5LI,True,,
+844,Martin Garrix,There for You,spotify:track:6jA8HL9i4QGzsj6fjoxp8Y,True,,True
+845,Kanye West,Ok Ok pt 2,spotify:track:1QCqedB1ibmRO9x7Ikb5LI,True,True,
 846,Drake,In My Feelings,spotify:track:0bAkKNCQfWkexHFn7fIKns,True,,True
-847,ILLENIUM,Lost,spotify:track:4rIAqwhHGfWChQvQGYwEfR,True,,
+847,ILLENIUM,Lost,spotify:track:4rIAqwhHGfWChQvQGYwEfR,True,,True
 848,Sylo,Ginny,spotify:track:6i5a50hEuC7FtJoBVqKpcT,True,,
 849,Rich Brian,Sometimes,spotify:track:4TQKvKtmAWsiOHGXSYkm7K,True,,True
 850,Aerosmith,Crazy,spotify:track:74irxdVWstNlEQjsvArITq,True,,
 851,Cordae,RNP (feat. Anderson .Paak),spotify:track:5lw8Mgb4LyhriPIC86gV6e,True,,
-852,Kanye West,Use This Gospel,spotify:track:0oPOuDmmkVp3h6puekhs6P,True,,
+852,Kanye West,Use This Gospel,spotify:track:0oPOuDmmkVp3h6puekhs6P,True,True,
 853,A$AP Ferg,Floor Seats,spotify:track:6AomCkEOQUODCYzQwH4SWC,True,,
 854,Lil Wayne,Bing James (ft. Jay Rock),spotify:track:3wGkYZLDYtULqg635DyKw8,True,,
-855,Jeremy Zucker,talk is overrated,spotify:track:7cflqPPi3zWfLFRRBTWeh6,True,,
-856,Galantis,Love on Me,spotify:track:2MHCiOohBZEQuLgDTPvSzF,True,,
+855,Jeremy Zucker,talk is overrated,spotify:track:7cflqPPi3zWfLFRRBTWeh6,True,,True
+856,Galantis,Love on Me,spotify:track:2MHCiOohBZEQuLgDTPvSzF,True,,True
 857,Macklemore,Good Old Days (feat. Kesha),spotify:track:2Za1AlJNvksouPPWbXpR2X,True,,
 858,Kid Cudi,Tequila Shots,spotify:track:30KctD1WsHKTIYczXjip5a,True,,
-859,Drake,Too Much,spotify:track:6kIh5c8x8vzOe6OKW1X59U,True,,True
+859,Drake,Too Much,spotify:track:6kIh5c8x8vzOe6OKW1X59U,True,True,True
 860,Lil Uzi Vert,Silly Watch,spotify:track:5egD7A5x9AHdVO2fMo3Wbo,True,,
 861,DJ Khaled,POPSTAR (feat. Drake),spotify:track:6EDO9iiTtwNv6waLwa1UUq,True,,True
 862,6LACK,Unfair,spotify:track:3Q33RhbyoFul9LdKKjticI,True,,
 863,DaniLeigh,The Plan,spotify:track:5y1KNlbZ1RAfq7tUIWvH2a,True,,
 864,Jordan Fisher,You're Welcome - Jordan Fisher/Lin-Manuel Miranda Version,spotify:track:4QpGKXfAEIF8TquT7oF4zA,True,,
-865,Kanye West,Water,spotify:track:454Epa1vrCGFddHXKyC1kb,True,,
+865,Kanye West,Water,spotify:track:454Epa1vrCGFddHXKyC1kb,True,True,True
 866,The Weeknd,Blinding Lights,spotify:track:0sf12qNH5qcw8qpgymFOqD,True,,True
-867,R E L,Night City,spotify:track:4dK0YKNUAMEV58MZxqN359,True,,
-868,BROCKHAMPTON,SUGAR,spotify:track:6U0FIYXCQ3TGrk4tFpLrEA,True,,
-869,Rex Orange County,Loving Is Easy (feat. Benny Sings),spotify:track:5EYi2rH4LYs6M21ZLOyQTx,True,,
+867,R E L,Night City,spotify:track:4dK0YKNUAMEV58MZxqN359,True,,True
+868,BROCKHAMPTON,SUGAR,spotify:track:6U0FIYXCQ3TGrk4tFpLrEA,True,,True
+869,Rex Orange County,Loving Is Easy (feat. Benny Sings),spotify:track:5EYi2rH4LYs6M21ZLOyQTx,True,True,
 870,Galantis,No Money,spotify:track:6M6Tk58pQvABy6ru66dY3d,True,,True
 871,Tiësto,Nothing Really Matters,spotify:track:1horDZRb64nwbtDXymIzLw,True,,
 872,The Weeknd,Alone Again,spotify:track:6b5P51m8xx2XA6U7sdNZ5E,,,
 873,Brayke,Ykowyk,spotify:track:6gjU5ogtqwiFYyOXGrTg2b,True,,
-874,Gryffin,Nobody Compares To You (feat. Katie Pearlman),spotify:track:17ejRbr6B8l9zdqgCZsn4m,True,,
+874,Gryffin,Nobody Compares To You (feat. Katie Pearlman),spotify:track:17ejRbr6B8l9zdqgCZsn4m,True,,True
 875,Fiji Blue,Day by Day,spotify:track:7ennBS5KF7XksS3WvusJSS,True,,
-876,Martin Garrix,In the Name of Love,spotify:track:23L5CiUhw2jV1OIMwthR3S,True,,
+876,Martin Garrix,In the Name of Love,spotify:track:23L5CiUhw2jV1OIMwthR3S,True,,True
 877,Aminé,Spice Girl,spotify:track:4HW5kSQ8M2IQWZhSxERvla,True,True,
 878,ILLENIUM,Lay It Down,spotify:track:0dxAvCV7LGcGIJQZuqhmgL,True,,
-879,Joji,Daylight,spotify:track:6Ww8GHdPCl8MqZBhPn4LKd,True,,
+879,Joji,Daylight,spotify:track:6Ww8GHdPCl8MqZBhPn4LKd,True,,True
 880,Laidback Luke,XOXO (feat. Ina),spotify:track:11BHx1QpCJVGKLQZiRB7xk,True,,
 881,NLE Choppa,Camelot,spotify:track:4sWuPniHClkInYAnzXAYUF,True,,
 882,Red Velvet,Psycho,spotify:track:3CYH422oy1cZNoo0GTG1TK,True,,True
@@ -896,16 +896,16 @@
 894,Lil Uzi Vert,I'm Sorry,spotify:track:1xcOYJxDa5pObgxY1r0I9c,True,,True
 895,Dom Dolla,Strangers (with Mansionair),spotify:track:63TjlMDhCFiZyZTRAa8o9a,True,,
 896,Childish Gambino,Pop Thieves (Make It Feel Good),spotify:track:77hL9s5AHzOhgXFxbLCdv1,True,,True
-897,Lil Nas X,Panini,spotify:track:68poZGRClFTzLdeRz9X0M2,True,,
-898,Joji,Gimme Love,spotify:track:2hfoyc7ve6xM4ZEiNIiU1B,True,,
-899,BROCKHAMPTON,FACE,spotify:track:5bknBRjKJZ643DAN2w8Yoy,True,,
+897,Lil Nas X,Panini,spotify:track:68poZGRClFTzLdeRz9X0M2,True,,True
+898,Joji,Gimme Love,spotify:track:2hfoyc7ve6xM4ZEiNIiU1B,True,,True
+899,BROCKHAMPTON,FACE,spotify:track:5bknBRjKJZ643DAN2w8Yoy,True,,True
 900,Young Stoner Life,Take It To Trial (feat. Yak Gotti),spotify:track:6aKDdFwPJLgHT4aNktrQmb,True,,
 901,Lil Tecca,Shots,spotify:track:5xjei7JnROsAzLY2a7RdZU,True,,
 902,Joyner Lucas,I Love,spotify:track:30z4LVkScpeNhwHFIB8Ewa,True,,
 903,HYUKOH,Comes And Goes,spotify:track:5yyJr6cv3cObSAioXR8h8X,,,
 904,Chance the Rapper,I Might Need Security,spotify:track:3EApebexZ7YqDIqw2EMTDh,True,,
 905,24kGoldn,VALENTINO,spotify:track:0c7K73roy6RW4ebDkf4yGh,True,,True
-906,Taska Black,In Your Eyes,spotify:track:1j3s6SE0wUgJfBULiHfgCv,True,,
+906,Taska Black,In Your Eyes,spotify:track:1j3s6SE0wUgJfBULiHfgCv,True,,True
 907,ILLENIUM,Pray (feat. Kameron),spotify:track:61sor95BL63MCvZYgKK8KM,True,,
 908,Drake,Signs,spotify:track:6Na5uKk5SsqZimk0hAWo8y,,,True
 909,Nebu Kiniza,Coastin' (feat. Tk Kravitz),spotify:track:7LBU1h8q0kpzkQnipzzEZ4,,,
@@ -914,13 +914,13 @@
 912,Miley Cyrus,Mother's Daughter,spotify:track:2WyRfGeHo97VC5mP1BBSzr,True,,
 913,Lil Nas X,MONTERO (Call Me By Your Name),spotify:track:3BZEcbdtXQSo7OrvKRJ6mb,True,,
 914,Khai,Do You Go Up,spotify:track:0OTpz9cTT3BUCilO5XTs7c,True,,
-915,Lykke Li,sex money feelings die,spotify:track:0g4fzRkbLeCDUCoe5iUOcf,True,True,
+915,Lykke Li,sex money feelings die,spotify:track:0g4fzRkbLeCDUCoe5iUOcf,True,True,True
 916,Peter CottonTale,Forever Always,spotify:track:4B2kIC5F0kSVfTD5crzgm9,,,
 917,Hardwell,Power,spotify:track:4CVOUJki8YUWol3jhLphgs,True,,
 918,Ali Gatie,Moonlight,spotify:track:72pv4E0eBIcE9z8V4tPHui,True,,
 919,The Kid LAROI,STAY (with Justin Bieber),spotify:track:5HCyWlXZPP0y6Gqq8TgA20,True,,True
 920,Dom Dolla,San Frandisco,spotify:track:3T00mhdOYUuM5yiuPs3xhs,True,,
-921,Martin Garrix,Higher Ground (feat. John Martin),spotify:track:0rohJsT6NWsThpukt0Xxdc,True,,
+921,Martin Garrix,Higher Ground (feat. John Martin),spotify:track:0rohJsT6NWsThpukt0Xxdc,True,,True
 922,KSHMR,I Will Be A Lion (feat. Jake Reese),spotify:track:5bMKiSofsYvWazpSpaEm59,True,,
 923,Bakar,Unhealthy,spotify:track:0PQftCkSQlJjneCXb7IC2C,True,,
 924,Aries,BAD NEWS,spotify:track:60ZppukPfY43NDU9meKJrz,True,,
@@ -928,7 +928,7 @@
 926,A Boogie Wit da Hoodie,Look Back at It,spotify:track:3J5YrOvX2A0EA0j4BARQ9o,True,,
 927,SiR,Hair Down (feat. Kendrick Lamar),spotify:track:6sq5mqtS3jwJjvBHALknJH,True,,
 928,Kina,Get You The Moon (feat. Snøw),spotify:track:4ZLzoOkj0MPWrTLvooIuaa,True,,
-929,Lil Uzi Vert,UnFazed (feat. The Weeknd),spotify:track:5O8x1YlmLQopQHErxtDfi9,True,,
+929,Lil Uzi Vert,UnFazed (feat. The Weeknd),spotify:track:5O8x1YlmLQopQHErxtDfi9,True,,True
 930,Mustard,Pure Water (with Migos),spotify:track:63cd4JkwGgYJrbOizbfmsp,,,True
 931,KnowKnow,R&B All Night,spotify:track:6MrVXeEMf0MULWdclDk4sI,True,,
 932,Quavo,LOST (feat. Kid Cudi),spotify:track:2H5CLUmtvo2VHEeWzMtUqW,,,
@@ -938,11 +938,11 @@
 936,Lil Wayne,Mona Lisa (feat. Kendrick Lamar),spotify:track:0dbTQYW3Ad1FTzIA9t90E8,True,,
 937,Young Thug,She Wanna Party (feat. Millie Go Lightly),spotify:track:3WL6yCfh0zw2MxVSWSe0G1,True,,
 938,Gunna,WUNNA,spotify:track:6HY3arOe4dD8UQ0oVDJ18E,,,
-939,Drake,Sticky,spotify:track:0C6ShwHWvn4JyvcJc1LjbS,True,,
+939,Drake,Sticky,spotify:track:0C6ShwHWvn4JyvcJc1LjbS,True,,True
 940,Mura Masa,Second 2 None,spotify:track:3HFfrCM9Cvt1NpASNcqzkR,True,,
 941,Cordae,Locationships,spotify:track:2nOrEg4ZHuR0cFQHeV8RnI,True,,
 942,Trippie Redd,6 Kiss,spotify:track:7tgjDlQsMR8RvkdlNCJA58,True,,
-943,SiM,The Rumbling,spotify:track:6k0X05danQOXSBTVek5DU1,True,,
+943,SiM,The Rumbling,spotify:track:6k0X05danQOXSBTVek5DU1,True,,True
 944,KYLE,Ikuyo (feat. 2 Chainz & Sophia Black),spotify:track:2NWoKpRnMfxocVAXF8ASwk,True,,
 945,Jo&Me,Daydream,spotify:track:1LLP9PX5h52tadD2sTJ6za,True,,
 946,Fiji Blue,It Takes Two,spotify:track:5V7qLbZJNTwaEVbZADqofc,True,,
@@ -956,7 +956,7 @@
 954,Noah Slee,Lips,spotify:track:6rjgXCOdI4k9D5HYQKrIU1,,,
 955,Chance the Rapper,GRoCERIES,spotify:track:0yFvWTLs3iIwDbc91noXGT,True,,
 956,Sheck Wes,YKTS,spotify:track:6mS9JgLlBCbmsMQnKrm2e3,True,,
-957,Childish Gambino,Bonfire,spotify:track:799f6Ih1Pu4AUApMyXhxUc,True,,
+957,Childish Gambino,Bonfire,spotify:track:799f6Ih1Pu4AUApMyXhxUc,True,True,
 958,IDK,Shoot My Shot,spotify:track:5q9Et9kJTWvRg80uQLBW4s,True,,
 959,Jacob Banks,Unknown (To You),spotify:track:4jDDaKTqcZQWvgubuW6N7l,True,,
 960,Finn Foxell,Built to Last,spotify:track:6jDurwjOP0bly2BAHeBLLL,True,,
@@ -967,31 +967,31 @@
 965,Lil He77,Lie on Me,spotify:track:7ijXfR09g8dImpTI586m7k,True,,
 966,21 Savage,Lazy Susan (with Rich Brian feat. Warren Hue & Masiwei),spotify:track:2XbG1IRDzoQQzLJSmwWIqC,True,,
 967,Bawo,Mazzalean,spotify:track:2G11gjwGKUeSUDHRSJkDbM,True,,
-968,Flipp Dinero,Leave Me Alone,spotify:track:14mHfNsSHN0FbLftyjrV9g,True,True,
+968,Flipp Dinero,Leave Me Alone,spotify:track:14mHfNsSHN0FbLftyjrV9g,True,True,True
 969,SLANDER,Love Is Gone - Acoustic,spotify:track:7F1CiKqrY44kh5cDqwHOnx,True,,True
 970,Brent Faiyaz,Lovely,spotify:track:2jGjNCH6Op0BqBHPc4Rd8d,True,,
-971,Joji,TEST DRIVE,spotify:track:5W1DiMUBM2vAcXhXieeVD6,True,,
+971,Joji,TEST DRIVE,spotify:track:5W1DiMUBM2vAcXhXieeVD6,True,,True
 972,Death Cab for Cutie,I Dreamt We Spoke Again - Louis the Child Remix,spotify:track:2TY2GcWmTmcE6L40jYC9Xv,True,,
 973,The Weeknd,Until I Bleed Out,spotify:track:2BcnxwxBuar5wjCaLqm5N3,True,,
 974,Adam Oh,TRAPPED IN MY MIND,spotify:track:3Qx1CtexENLotadyrPxGsY,True,,
 975,Galantis,Dandelion,spotify:track:4NexTaCZZ7Ehnf03A6SVjt,True,,True
 976,Yo Gotti,Castro,spotify:track:0va1WXBIZt9CXh1bK0PF3i,,,
-977,Fiji Blue,Outside,spotify:track:2RdREuezrUKCuCcCz5a7ZC,True,,
+977,Fiji Blue,Outside,spotify:track:2RdREuezrUKCuCcCz5a7ZC,True,,True
 978,THEY.,Pops,spotify:track:5qEzURrIp2mJbfgBXNnQeD,True,,
 979,Bazzi,Myself,spotify:track:5YLHLxoZsodDWjqSgjhBf3,True,,True
 980,Rexx Life Raj,Freedom Love (feat. Goapele),spotify:track:0ecTxrvdJCFghS781UNavr,True,,
 981,Cordae,Have Mercy,spotify:track:0GwYkXgQdqY4dyRffHw3HT,True,,
 982,Maroon 5,Beautiful Mistakes (feat. Megan Thee Stallion),spotify:track:5zFglKYiknIxks8geR8rcL,True,,
 983,21 Savage,No Heart,spotify:track:4gmmRb6bZJffOOiww1JGTO,True,,
-984,AURORA,Runaway,spotify:track:0TCmhnbMpw5zwPsTvlXTJi,True,,
+984,AURORA,Runaway,spotify:track:0TCmhnbMpw5zwPsTvlXTJi,True,True,
 985,FireCityFunk,Surrender To Me,spotify:track:34sIEdi9tN5Fi2rNaSHVTQ,True,,
 986,Post Malone,Goodbyes (Feat. Young Thug),spotify:track:6vBdBCoOhKHiYDDOcorfNo,,,
-987,Jorja Smith,Tomorrow,spotify:track:14qLa09blyCJdkRJRQ8lpV,True,,
+987,Jorja Smith,Tomorrow,spotify:track:14qLa09blyCJdkRJRQ8lpV,True,True,
 988,Digital Farm Animals,Millionaire (feat. Nelly) - Alan Walker Remix,spotify:track:5HzbxweVAtisCrpoOF11qt,,,
-989,Olivia O'Brien,RIP (feat. G-Eazy & Drew Love),spotify:track:3qjf2YP8G2RNFanYZDcZUk,True,,
+989,Olivia O'Brien,RIP (feat. G-Eazy & Drew Love),spotify:track:3qjf2YP8G2RNFanYZDcZUk,True,,True
 990,Russ,Last Forever (feat. Rick Ross & Snoop Dogg),spotify:track:5U1OcBfP61WcT2yTpXKx72,True,,
 991,Wolfie,Symmetry,spotify:track:0NkX6UvIm7EhIU3P6RBQpm,True,,
-992,Jaden,PCH,spotify:track:3Ju7HGke5GYEXUJ3YWGOry,True,,
+992,Jaden,PCH,spotify:track:3Ju7HGke5GYEXUJ3YWGOry,True,,True
 993,Yung Pinch,Nightmares (feat. Lil Skies),spotify:track:0qy1xNhQvnRhEpvKxdXYUR,True,,
 994,Aminé,NEO,spotify:track:7onHzHeOVE3M9p0tNKQbXc,True,,
 995,Ruel,Dazed & Confused,spotify:track:2pyjbGTpJCPjMYwCbdymiF,True,,
@@ -1005,17 +1005,17 @@
 1003,Drake,Passionfruit,spotify:track:5mCPDVBb16L4XQwDdbRUpz,,,True
 1004,Alex Mali,Start It Up,spotify:track:1Srs6bdnsieHVfJqxC5W28,True,,
 1005,Emmit Fenn,Painting Greys,spotify:track:6kUohQ7py1XEcQAhUgf2Zz,,,
-1006,88rising,Head In The Clouds,spotify:track:3kYARoLSAvt86VFZ55BQcq,True,,
+1006,88rising,Head In The Clouds,spotify:track:3kYARoLSAvt86VFZ55BQcq,True,,True
 1007,Zeds Dead,Neck And Neck - DNMO Remix,spotify:track:2bCjaF7cRm53Wdq9RtkYJu,True,,True
-1008,Adventure Club,High Like This,spotify:track:3Ukb1tpAsQOdUSVKAW94Cj,True,,
+1008,Adventure Club,High Like This,spotify:track:3Ukb1tpAsQOdUSVKAW94Cj,True,,True
 1009,NLE Choppa,Narrow Road (feat. Lil Baby),spotify:track:3GZd1aDsgKL71Kt3VIp0hc,True,,
 1010,ONE OK ROCK,The Beginning,spotify:track:4f3nDjgqXurMryYBSp0TZD,True,,
 1011,Kanye West,Jail,spotify:track:42ZrMq4BKsWDrrbMnMRYaK,True,True,
 1012,Lil Baby,Frozen,spotify:track:19n0UZuW8AArMVWNztoXu9,True,,
 1013,Metro Boomin,10AM/Save The World (feat. Gucci Mane),spotify:track:6qZANDqrSAvfuSjcxBP1PD,True,,
-1014,MEDUZA,Paradise (feat. Dermot Kennedy),spotify:track:6ft4hAq6yde8jPZY2i5zLr,True,,
+1014,MEDUZA,Paradise (feat. Dermot Kennedy),spotify:track:6ft4hAq6yde8jPZY2i5zLr,True,,True
 1015,iann dior,thought it was,spotify:track:3x1h0lsx1i2v9cUWnZssBa,True,,
-1016,Metro Boomin,Borrowed Love (feat. Swae Lee & WizKid),spotify:track:0McI9sOmkpfd4E72njtU0G,True,,
+1016,Metro Boomin,Borrowed Love (feat. Swae Lee & WizKid),spotify:track:0McI9sOmkpfd4E72njtU0G,True,,True
 1017,Louis The Child,Free (with Drew Love),spotify:track:64BKKgWdKdmKlQDzRfHW3C,True,,
 1018,Jaden,Better Things,spotify:track:5uONhK4CTwHMzCzrIeTX6N,True,,
 1019,Drake,TSU,spotify:track:4s7QLoImIwmPi9L6dq1nVW,True,,True
@@ -1026,21 +1026,21 @@
 1024,Joe Hertz,Stay Lost - Cabu Remix,spotify:track:3xy8karhdpkltgdwj9FGbQ,True,,
 1025,Post Malone,Hollywood's Bleeding,spotify:track:77Y7tccX9Hx5iClDr39uy9,True,,
 1026,John Mayer,New Light,spotify:track:3bH4HzoZZFq8UpZmI2AMgV,True,,
-1027,Kanye West,Closed On Sunday,spotify:track:3JWiDGQX2eTlFvKj3Yssj3,True,,
+1027,Kanye West,Closed On Sunday,spotify:track:3JWiDGQX2eTlFvKj3Yssj3,True,True,
 1028,Billie Eilish,hostage,spotify:track:1WsEgieHsWWndAzLkmV105,True,,
 1029,Metro Boomin,Dreamcatcher (feat. Swae Lee & Travis Scott),spotify:track:6osMzmRHCVETbZMHceLRmh,True,,True
 1030,Sage The Gemini,Now and Later,spotify:track:43jBqV3j3Xi1g6wO0bhIMd,True,,
-1031,Bazzi,Mine,spotify:track:6tHWl8ows5JOZq9Yfaqn3M,True,,
+1031,Bazzi,Mine,spotify:track:6tHWl8ows5JOZq9Yfaqn3M,True,,True
 1032,Doja Cat,Streets - Silhouette Remix,spotify:track:0Uru1UoJdHKf2lxssQT3kC,True,,
 1033,Flipp Dinero,How I Move (feat. Lil Baby),spotify:track:0jBJIQuToUUOEx7JJkiPzm,True,,
 1034,Khalid,Let's Go,spotify:track:6AIccJIWHGK26xi34FAkwl,True,,
-1035,A$AP Ferg,Jet Lag,spotify:track:2hyF1YWdX8yxExvRelT9nB,True,,
+1035,A$AP Ferg,Jet Lag,spotify:track:2hyF1YWdX8yxExvRelT9nB,True,,True
 1036,Logic,1-800-273-8255,spotify:track:4Sj8JZ9zZfl8HaOav5yTVq,True,,
 1037,khai dreams,Lost in You,spotify:track:2itR8VHeTVKInnMPec8mj8,True,,
 1038,88rising,California (feat. Warren Hue),spotify:track:3Qj2f7BrpJNGj3dbxKpOlp,True,,True
 1039,Pink Sweat$,At My Worst,spotify:track:2MJz8BxxMsERULatmBikDH,True,,
 1040,Pab the Kid,Comfort Me,spotify:track:0QRVoRy6M1ptcRJHTjkRHU,True,,
-1041,Polo G,Pop Out (feat. Lil Tjay),spotify:track:5AjINjwKyRvQJhSe2zpPHi,True,,
+1041,Polo G,Pop Out (feat. Lil Tjay),spotify:track:5AjINjwKyRvQJhSe2zpPHi,True,,True
 1042,ARMNHMR,One Sided (feat. Mark Klaver),spotify:track:49PgWU6oGZPHbBv3Q2kwMZ,True,,
 1043,Drake,Successful (feat. Trey Songz & Lil Wayne),spotify:track:6NwhtCYkfwWlcR62Ac4E7y,,,
 1044,Sueco,fast,spotify:track:6lq0OqAXfxnwtFGqdARtRU,True,,
@@ -1054,17 +1054,17 @@
 1052,Zeds Dead,Alive,spotify:track:5bFuHlXKw66Uu2cHKn5bf8,True,,True
 1053,Ariana Grande,7 rings,spotify:track:6ocbgoVGwYJhOv1GgI9NsF,True,,True
 1054,DaBaby,Ball If I Want To,spotify:track:0cu0rhnlCnJ7JIeHRiLpj3,True,,
-1055,The Weeknd,After Hours,spotify:track:4ejyZ4uJEXUURcgKp1kP8v,,,True
+1055,The Weeknd,After Hours,spotify:track:4ejyZ4uJEXUURcgKp1kP8v,,True,True
 1056,Lauv,Modern Loneliness,spotify:track:7MZF7YLxOP2to9iblSulLc,True,,
 1057,BlocBoy JB,Look Alive (feat. Drake),spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,True,,True
 1058,Travis Scott,WAKE UP,spotify:track:20MuVazoNMv6xjKPnRFOxG,,,
 1059,KYLE,Playinwitme (feat. Kehlani),spotify:track:43cFjTTCD9Cni4aSL0sORz,True,,
-1060,The Weeknd,Gasoline,spotify:track:3KyKxJ4P3pVCgaZwaq2rUC,True,,
+1060,The Weeknd,Gasoline,spotify:track:3KyKxJ4P3pVCgaZwaq2rUC,True,,True
 1061,BENEE,Supalonely,spotify:track:4nK5YrxbMGZstTLbvj6Gxw,True,,True
 1062,Blasterjaxx,Narco,spotify:track:4TuNI3WEMyLQAKRMJmcQdA,True,,
-1063,Rex Orange County,Sunflower,spotify:track:4EpZ4eYuZOwPSSwyqpdHnJ,True,,
+1063,Rex Orange County,Sunflower,spotify:track:4EpZ4eYuZOwPSSwyqpdHnJ,True,True,True
 1064,starRo,Yams feat. Masego,spotify:track:6SXS9vVtsUZXfgCDzhOwl8,True,,
-1065,Rich Brian,Introvert (feat. Joji),spotify:track:3qbqWUDl9j09PeBaQ6CZgr,,,
+1065,Rich Brian,Introvert (feat. Joji),spotify:track:3qbqWUDl9j09PeBaQ6CZgr,,,True
 1066,Ed Sheeran,Cross Me (feat. Chance the Rapper & PnB Rock),spotify:track:543bCW2ruMPmxUBWirQ3MR,True,,
 1067,Kid Travis,Strawberry Skies,spotify:track:0GiAmOCAtzGPfjfjGAXQ04,True,,True
 1068,Noah Cyrus,Again (feat. XXXTENTACION),spotify:track:2S2od3hT7ceytw7d1pTRuE,True,,
@@ -1073,7 +1073,7 @@
 1071,Neovaii,Your Eyes,spotify:track:4ZWwJZItMQKXLr7xvS6cYt,,,
 1072,21 Savage,Runnin,spotify:track:5SWnsxjhdcEDc7LJjq9UHk,True,,True
 1073,Quinn XCII,Iron & Steel,spotify:track:1UMQ9VXdKGiAHIGD5fWX2B,True,,
-1074,Julia Michaels,Heaven,spotify:track:4QfNOZN7vrQCQKK1ZJ3XPb,True,,
+1074,Julia Michaels,Heaven,spotify:track:4QfNOZN7vrQCQKK1ZJ3XPb,True,,True
 1075,Zeds Dead,i think you're cool,spotify:track:6tkHWTety7Wd4Fv4oyGAcz,True,,True
 1076,League of Legends,Legends Never Die - (Remix),spotify:track:66YtIqT0kN4958EXnCnAmE,True,,
 1077,VIC MENSA,Dark Things,spotify:track:3YhuRxTNDJPPIbTOdN2N50,,,
@@ -1088,15 +1088,15 @@
 1086,blackbear,do re mi,spotify:track:3sTCfUmYXSVWDacTd6uMbQ,True,,
 1087,XXXTENTACION,Fuck Love (feat. Trippie Redd),spotify:track:7AQim7LbvFVZJE3O8TYgf2,True,,True
 1088,Kendrick Lamar,Big Shot (with Travis Scott),spotify:track:5cXg9IQS34FzLVdHhp7hu7,True,,True
-1089,Imagine Dragons,Believer,spotify:track:05KfyCEE6otdlT1pp2VIjP,True,,
+1089,Imagine Dragons,Believer,spotify:track:05KfyCEE6otdlT1pp2VIjP,True,,True
 1090,Big Sean,Go Legend (& Metro Boomin),spotify:track:3wAI7MIQtTgwcRmwchPZBc,True,,True
 1091,Defqwop,Heart Afire,spotify:track:4s4XzNKcU3PtmeV7OdXDmv,True,,
 1092,Calvin Harris,Over Now (with The Weeknd),spotify:track:58AGoOGbwsQMhBbH0eFLRR,True,,
 1093,mike.,Lost Me,spotify:track:5LG63eRhfNFYyCGU1QZXCo,True,,
 1094,Tyla Yaweh,High Right Now (feat. Wiz Khalifa) - Remix,spotify:track:5DPASDOoVakOcD8EIhb46T,True,,
 1095,J. Cole,a m a r i,spotify:track:2cnKST6T9qUo2i907lm8zX,True,,
-1096,Rosa Walton,I Really Want to Stay at Your House,spotify:track:7mykoq6R3BArsSpNDjFQTm,True,,
-1097,Empire of the Sun,Alive,spotify:track:5WBnKCEsPwsvWHUZmLjS3s,True,,
+1096,Rosa Walton,I Really Want to Stay at Your House,spotify:track:7mykoq6R3BArsSpNDjFQTm,True,,True
+1097,Empire of the Sun,Alive,spotify:track:5WBnKCEsPwsvWHUZmLjS3s,True,,True
 1098,Yung Pinch,HARD TIMES,spotify:track:6PeNPuWac474B7l2FcbZS8,True,,
 1099,Quinn XCII,Stacy,spotify:track:1pyGo7knT3LE2I1FJIrwdX,True,,
 1100,24kGoldn,"Mood (Remix) feat. Justin Bieber, J Balvin & iann dior",spotify:track:6FuGJB290AQMAHTfjOYVaK,True,,
@@ -1104,7 +1104,7 @@
 1102,Bazzi,Dreams,spotify:track:6fZpcVRr45Z6fLtciswBBU,True,,True
 1103,Scott Bradlee's Postmodern Jukebox,Seven Nation Army,spotify:track:2Lv9mFjcIFPn8zyWF89EAe,,,
 1104,Choker,Petrol Bliss,spotify:track:7w0lCrXGoUj5b8DgW5wZlx,True,,
-1105,Joji,R.I.P. (feat. Trippie Redd),spotify:track:4wJ8dJKBAxdDe5cUx8K779,True,,
+1105,Joji,R.I.P. (feat. Trippie Redd),spotify:track:4wJ8dJKBAxdDe5cUx8K779,True,,True
 1106,Young Thug,The London (feat. J. Cole & Travis Scott),spotify:track:7DcvwMAiqKJQD1rrdfxSDx,True,,
 1107,Dermot Kennedy,"Heartless - Recorded At RAK Studios, London",spotify:track:6S4vdF9ENvX8WN8PvJ6soA,True,,
 1108,Khalid,Coaster,spotify:track:39KG4kom3enSx4GTThuDGt,True,,
@@ -1121,22 +1121,22 @@
 1119,Justin Bieber,As I Am (feat. Khalid),spotify:track:6F2r4HgpJnvKDmkN6JEN6J,True,,
 1120,Lil Baby,Heatin Up (feat. Gunna),spotify:track:7KSSdFCBHCfq4KPzz78ghk,,,
 1121,Phlake,Gone,spotify:track:1bTznoPGxp3ygLTHReQtIh,True,,
-1122,PnB Rock,TTM (feat. Wiz Khalifa & NGHTMRE),spotify:track:2lH43POZa4XHxydnZizET5,True,,
+1122,PnB Rock,TTM (feat. Wiz Khalifa & NGHTMRE),spotify:track:2lH43POZa4XHxydnZizET5,True,,True
 1123,Yoh kamiyama,YELLOW,spotify:track:6oLejuhWNQf76ydBbtLrT9,True,,
 1124,Muray,One day (第459話〜492話 OP),spotify:track:2OrM9Dz171ht7Rd1xZjPxB,True,,
 1125,ILLENIUM,Blame Myself,spotify:track:1suqXPrYygZ7BYiSfaVZE4,True,,
 1126,Yung Pinch,20 Years Later,spotify:track:5fPZ5rlUHzHfNY0Eda4T8o,,,
 1127,ONE OK ROCK,Wasted Nights,spotify:track:39LyUQIy7idLxPdsjyZsxe,True,,
 1128,The Kid LAROI,WITHOUT YOU,spotify:track:27OeeYzk6klgBh83TSvGMA,True,,True
-1129,Post Malone,Psycho (feat. Ty Dolla $ign),spotify:track:65NwOZqoXny4JxqAPlfxRF,True,,
+1129,Post Malone,Psycho (feat. Ty Dolla $ign),spotify:track:65NwOZqoXny4JxqAPlfxRF,True,,True
 1130,Wes Walker,Jordan Belfort,spotify:track:6qMXubogFdMrvVMJwqATzd,True,,True
-1131,Drake,Massive,spotify:track:0oiv4E896TUTTeQU0cmIui,True,,
+1131,Drake,Massive,spotify:track:0oiv4E896TUTTeQU0cmIui,True,,True
 1132,Grimes,Delicate Weapon,spotify:track:1hT3eaGzrcFriQtgGdvsZv,True,,
-1133,Kota the Friend,Wolves,spotify:track:49nkBg3OJtp6m6TQPmG1Qw,True,,
+1133,Kota the Friend,Wolves,spotify:track:49nkBg3OJtp6m6TQPmG1Qw,True,,True
 1134,Porter Robinson,Sad Machine,spotify:track:1JY6B9ILvmRla2IKKRZvnH,True,,
 1135,OOHYO,Honey Tea,spotify:track:4hxcpJ1sM0lrhVrqiBIMof,True,,True
-1136,Marshmello,Numb,spotify:track:10xV5l9nhLvFpR8mqzs0bL,True,,
-1137,21 Savage,Mr. Right Now (feat. Drake),spotify:track:4Q34FP1AT7GEl9oLgNtiWj,True,,
+1136,Marshmello,Numb,spotify:track:10xV5l9nhLvFpR8mqzs0bL,True,,True
+1137,21 Savage,Mr. Right Now (feat. Drake),spotify:track:4Q34FP1AT7GEl9oLgNtiWj,True,,True
 1138,Col3trane,Superpowers (with GoldLink),spotify:track:1iZjxPc5GJhEBl6CZOZXTw,True,,
 1139,HONNE,Day 1 ◑,spotify:track:7AWZvcyaSBxRzaBJcHf9XL,True,,True
 1140,Young Stoner Life,Came and Saw (feat. Rowdy Rebel),spotify:track:3GkEnNf2RWmdwkA2FfjQ3g,True,,
@@ -1152,44 +1152,44 @@
 1150,Polo G,Gang WithMe,spotify:track:1uMMWkJbsMkecvfx96d2F7,True,,
 1151,Post Malone,Candy Paint,spotify:track:42CeaId2XNlxugDvyqHfDf,True,,
 1152,Billie Eilish,bad guy,spotify:track:2Fxmhks0bxGSBdJ92vM42m,True,,
-1153,Bazzi,Focus (feat. 21 Savage),spotify:track:2FqqVHvC4eKrsk97vpMRid,True,,
-1154,BLACKPINK,Lovesick Girls,spotify:track:4Ws314Ylb27BVsvlZOy30C,True,,
-1155,Kehlani,Honey,spotify:track:5QTdOvIF2ehBMZpSIIGzIo,True,True,
+1153,Bazzi,Focus (feat. 21 Savage),spotify:track:2FqqVHvC4eKrsk97vpMRid,True,,True
+1154,BLACKPINK,Lovesick Girls,spotify:track:4Ws314Ylb27BVsvlZOy30C,True,,True
+1155,Kehlani,Honey,spotify:track:5QTdOvIF2ehBMZpSIIGzIo,True,True,True
 1156,The Kid LAROI,TRAGIC (feat. Youngboy Never Broke Again & Internet Money),spotify:track:13EW51DKru044OJDJ9Bm8o,,,
 1157,50 Cent,Still Think I'm Nothing (feat. Jeremih),spotify:track:3bCd9LWbzVbx5D735fzQEy,True,,
-1158,A$AP Ferg,Plain Jane,spotify:track:4dVpf9jZjcORqGTLUaeYj9,True,True,
+1158,A$AP Ferg,Plain Jane,spotify:track:4dVpf9jZjcORqGTLUaeYj9,True,True,True
 1159,BANKS,Warm Water,spotify:track:0lcxaYYEK5UnJMbaFgevtQ,True,,
 1160,Rich Brian,Sydney,spotify:track:3OzZSSRbdIr1Jojw1rHUB1,True,,True
 1161,Justin Bieber,Peaches (feat. Daniel Caesar & Giveon),spotify:track:4iJyoBOLtHqaGxP12qzhQI,True,,
 1162,J. Cole,m y . l i f e (with 21 Savage & Morray),spotify:track:1D3z6HTiQsNmZxjl7F7eoG,True,,True
-1163,JVNA,Breakdown,spotify:track:1B6Za6s7tPvxU9ISUEgRda,True,,
+1163,JVNA,Breakdown,spotify:track:1B6Za6s7tPvxU9ISUEgRda,True,,True
 1164,Travis Scott,YOSEMITE,spotify:track:7lAK3oHbfEnvUQWosrMMpR,True,,
-1165,KIDS SEE GHOSTS,Freeee (Ghost Town Pt. 2),spotify:track:7GRTrWsP3yo2Fx8umJfA1X,True,,True
+1165,KIDS SEE GHOSTS,Freeee (Ghost Town Pt. 2),spotify:track:7GRTrWsP3yo2Fx8umJfA1X,True,True,True
 1166,XXXTENTACION,Moonlight,spotify:track:0JP9xo3adEtGSdUEISiszL,True,,True
 1167,Khalid,Love Lies (with Normani),spotify:track:45Egmo7icyopuzJN0oMEdk,True,,
 1168,Bren Joy,Twenties,spotify:track:3BeQzzSxNb7lzN1pJwXXDf,True,,
 1169,21 Savage,a lot,spotify:track:2t8yVaLvJ0RenpXUIAC52d,,,True
-1170,ILLENIUM,Nightlight,spotify:track:06kxa3al7bUqRRo5nAFduZ,True,,
+1170,ILLENIUM,Nightlight,spotify:track:06kxa3al7bUqRRo5nAFduZ,True,,True
 1171,Stamos,Cooking Thoughts of You,spotify:track:26TQ5jhZ0y3v2zQZ3FhOwu,True,,
 1172,YNW Melly,Murder On My Mind,spotify:track:7eBqSVxrzQZtK2mmgRG6lC,True,,True
 1173,Tom Misch,It Runs Through Me,spotify:track:02CygBCQOIyEuhNZqHHcNx,True,,
 1174,Kanye West,All Mine,spotify:track:3qnoOm4fwZPBS116f5hpgF,True,True,True
-1175,YNW Melly,Mixed Personalities (feat. Kanye West),spotify:track:6vWEAOUSxohKxhp0K1BsxL,True,,
+1175,YNW Melly,Mixed Personalities (feat. Kanye West),spotify:track:6vWEAOUSxohKxhp0K1BsxL,True,,True
 1176,21 Savage,can't leave without it,spotify:track:0hPLZrnDgtKxrym1BHjDhd,True,,
 1177,ROSÉ,Gone,spotify:track:2dHoVW9AxJVSRebPRyV2aA,True,,True
-1178,Martin Garrix,High On Life (feat. Bonn),spotify:track:4ut5G4rgB1ClpMTMfjoIuy,True,,
-1179,Møme,Aloha,spotify:track:7IfOWyh4jTfkcGVrXKVNq0,True,,
+1178,Martin Garrix,High On Life (feat. Bonn),spotify:track:4ut5G4rgB1ClpMTMfjoIuy,True,,True
+1179,Møme,Aloha,spotify:track:7IfOWyh4jTfkcGVrXKVNq0,True,,True
 1180,Future,Fine China,spotify:track:5274I4mUMnYczyeXkGDWZN,True,,True
 1181,The Kid LAROI,NEED YOU MOST (So Sick),spotify:track:1BR1uwcmiTSQooTvC5geCR,True,,
 1182,SOB X RBE,Paramedic!,spotify:track:2tPcTFiQF9MbVUyjZ3zDhA,True,,True
-1183,Frank Ocean,Biking,spotify:track:2q0VexHJirnUPnEOhr2DxK,True,,
+1183,Frank Ocean,Biking,spotify:track:2q0VexHJirnUPnEOhr2DxK,True,,True
 1184,Post Malone,Die For Me (feat. Future & Halsey),spotify:track:59PYPDxTbqJpiGfyogPb5h,,,
 1185,Offset,How Did I Get Here (feat. J. Cole),spotify:track:32iPykTXUNZ9oGyACGUybq,,,
 1186,Jonas Brothers,Sucker,spotify:track:4y3OI86AEP6PQoDE6olYhO,True,,
 1187,Arizona Zervas,LM$,spotify:track:2BRQDKhG1axUBEeXKxO1mm,True,,
 1188,YG,"Go Loko (feat. Tyga, Jon Z)",spotify:track:1kK6DwzyXJSp58u5HYWwuD,True,,
 1189,Fiji Blue,Waves,spotify:track:4If7JKEkzeY0WusIrOdQlC,True,,True
-1190,Metro Boomin,Overdue (with Travis Scott),spotify:track:2mYDDUkBcgFNBqkWctyyuc,True,,
+1190,Metro Boomin,Overdue (with Travis Scott),spotify:track:2mYDDUkBcgFNBqkWctyyuc,True,,True
 1191,Khalid,Vertigo,spotify:track:7stcuQtnHL7C6XdPvpwywv,True,,True
 1192,Internet Money,"Lemonade (feat. Gunna, Don Toliver & NAV)",spotify:track:2DQNYMRjisN3KAPj1bEwOI,True,,True
 1193,The Kid LAROI,NOT SOBER (feat. Polo G & Stunna Gambino),spotify:track:1JXBNvlDEl2epKSJ9EOgKX,True,,True
@@ -1199,7 +1199,7 @@
 1197,Trevor Daniel,Falling,spotify:track:4TnjEaWOeW0eKTKIEvJyCa,True,,True
 1198,The Weeknd,Heartless,spotify:track:6bnF93Rx87YqUBLSgjiMU8,True,True,True
 1199,The Chainsmokers,Beach House,spotify:track:2bQhVQbV7VBzSOPo8mbkUR,True,,
-1200,Kanye West,On God,spotify:track:2SasoXZyv82yYgHiVOvxQn,True,,
+1200,Kanye West,On God,spotify:track:2SasoXZyv82yYgHiVOvxQn,True,True,
 1201,J. Cole,p u n c h i n ‘ . t h e . c l o c k,spotify:track:57ZUX6TNyKLBydAdVVd02x,True,,
 1202,88rising,Tequila Sunrise (feat. AUGUST 08 & GoldLink),spotify:track:121bJml1xjrfnZuk2yPsLG,True,,
 1203,MitiS,Without Me (feat. Danni Carra),spotify:track:7nDgGZbmdYQVIskaZnIXaB,True,,
@@ -1207,31 +1207,31 @@
 1205,Giveon,Heartbreak Anniversary,spotify:track:3FAJ6O0NOHQV8Mc5Ri6ENp,True,,
 1206,tobi lou,I Was Sad Last Night I'm OK Now,spotify:track:0gEcmyKlIUoi3sHTFVO1bE,True,,
 1207,Miguel,Funeral,spotify:track:782CIMTujSmNFrRuAVhsqd,True,,
-1208,ODIE,North Face,spotify:track:63bAGRSSX2V1hhPSP2NpBC,True,,
+1208,ODIE,North Face,spotify:track:63bAGRSSX2V1hhPSP2NpBC,True,,True
 1209,RL Grime,I Wanna Know,spotify:track:4ToogKQq58R9TvO40qRuxi,True,,True
 1210,Pop Smoke,Mood Swings (feat. Lil Tjay),spotify:track:5rZlwNFl01HqLWBQGryKSm,True,,True
 1211,JACKBOYS,GANG GANG,spotify:track:6uJONCdr2rC65BNmCnTBWK,True,,
 1212,Halsey,Coming Down,spotify:track:4lKXjLzAV0Nxwln8MxHVtQ,,,
 1213,Jaden,Play This On A Mountain At Sunset,spotify:track:2KQNjZcD1WhJg8nDm34eQa,True,,
-1214,Drake,Elevate,spotify:track:4uloft7ZE54WflsuqFmjC7,True,,
+1214,Drake,Elevate,spotify:track:4uloft7ZE54WflsuqFmjC7,True,,True
 1215,Olivia Rodrigo,good 4 u,spotify:track:4ZtFanR9U6ndgddUvNcjcG,True,,
 1216,Fiji Blue,Only When I Look into Your Eyes,spotify:track:5MgXxIwMUkJQlv5WYxlUNS,True,,
 1217,Trippie Redd,!,spotify:track:5a1ofLoPiAn5xxf5UE6472,True,,
 1218,Chelsea Cutler,Summer Love - Recorded at Spotify Studios NYC,spotify:track:3LSnp6mtKiVXCJwsmOvfMd,,,
-1219,Labrinth,All For Us - from the HBO Original Series Euphoria,spotify:track:10hMM5nsZQf66ldBlgWBfG,True,,
+1219,Labrinth,All For Us - from the HBO Original Series Euphoria,spotify:track:10hMM5nsZQf66ldBlgWBfG,True,,True
 1220,Kid Travis,Atomic Ever After,spotify:track:6rshj6lkRqKRjlCXWtTdwn,True,,
 1221,Russ,Me You,spotify:track:4f1QbCjIAgQwnf7ms9NXWx,True,,
 1222,The Kid LAROI,ABOUT YOU,spotify:track:5G7P83QgRGqnzJZmMJuxOH,,,
 1223,Tory Lanez,LUV,spotify:track:16Ah4QqH4mgYVXqfC4mdSd,True,,
 1224,Gryffin,Tie Me Down (with Elley Duhé),spotify:track:2zh01m4PiHaZz4BAm0NRxs,True,,True
 1225,Aminé,WHY?,spotify:track:4qV3FpOX5NQbghsnmx3wKX,True,,
-1226,Martin Garrix,Starlight (Keep Me Afloat),spotify:track:4UQy41kC5LjzwQuiuWOpwA,True,,
+1226,Martin Garrix,Starlight (Keep Me Afloat),spotify:track:4UQy41kC5LjzwQuiuWOpwA,True,,True
 1227,Chaze Sharp,Bonezboy Nightz,spotify:track:60i2G45SsZn9pnrHdLShAo,True,,
 1228,James Blake,Tell Them,spotify:track:3nWCi6Npr1DJObl5hgZwt7,,,
 1229,Cosmo's Midnight,History,spotify:track:1Ba0ucfKPaRzS3AKvX3X3r,,,True
-1230,Kanye West,God Is,spotify:track:6xRWoYwfwIKnT8bQGzKbxR,True,,
+1230,Kanye West,God Is,spotify:track:6xRWoYwfwIKnT8bQGzKbxR,True,True,
 1231,SAINt JHN,Trap (feat. Lil Baby),spotify:track:1pChm8ih9LlKhWncBJ6HLr,True,,True
-1232,Kanye West,Hands On,spotify:track:7r6aR2f57resC5r93LwMfK,True,,
+1232,Kanye West,Hands On,spotify:track:7r6aR2f57resC5r93LwMfK,True,True,
 1233,Billie Eilish,when the party's over,spotify:track:14JzyD6FlBD5z0wV5P07YI,True,,
 1234,Mustard,On GOD (with YG & Tyga feat. A$AP Ferg & A$AP Rocky),spotify:track:1xD7cSgpYzWiuPRfcIEmdT,True,,
 1235,Yung Pinch,Look Like,spotify:track:3UiZUMXuNrORtsAIdDkZDe,True,,
@@ -1244,55 +1244,55 @@
 1242,Eminem,Lucky You (feat. Joyner Lucas),spotify:track:60SdxE8apGAxMiRrpbmLY0,True,,
 1243,G-Eazy,No Less,spotify:track:44YAJYlDg4EECrecze8BU2,True,,
 1244,Gucci Mane,Opps and Adversaries,spotify:track:1Ch0aqT7azhJ8iwQ1I4USz,True,,
-1245,Joji,Pretty Boy (feat. Lil Yachty),spotify:track:0f1G5SHFoFC9lO03gHCGVS,,,
-1246,Lykke Li,two nights part ii (Lykke Li x Skrillex x Ty Dolla $ign),spotify:track:47UnzjxpWvJKCverxM1OaS,True,,
+1245,Joji,Pretty Boy (feat. Lil Yachty),spotify:track:0f1G5SHFoFC9lO03gHCGVS,,,True
+1246,Lykke Li,two nights part ii (Lykke Li x Skrillex x Ty Dolla $ign),spotify:track:47UnzjxpWvJKCverxM1OaS,True,,True
 1247,Oh Wonder,Lose It,spotify:track:2QgNcjwEn0vGmTommfszQd,True,,
 1248,24kGoldn,Mood (feat. iann dior),spotify:track:3tjFYV6RSFtuktYl3ZtYcq,True,,
-1249,Ed Sheeran,Shape of You,spotify:track:0FE9t6xYkqWXU2ahLh6D8X,True,,
+1249,Ed Sheeran,Shape of You,spotify:track:0FE9t6xYkqWXU2ahLh6D8X,True,,True
 1250,Lil Uzi Vert,Lo Mein,spotify:track:6CUP2khYzdphXebxVTfPE3,True,,
-1251,Aminé,REEL IT IN,spotify:track:5qHirGR7M9tdm6C17DlzSY,True,,
+1251,Aminé,REEL IT IN,spotify:track:5qHirGR7M9tdm6C17DlzSY,True,,True
 1252,The Kid LAROI,STILL CHOSE YOU (feat. Mustard),spotify:track:637YZncqOkeFzcTmr7YijJ,True,,True
 1253,Throttle,Dreamer,spotify:track:4PZSK9emDiCzkvT3yMWtOT,True,,True
 1254,Juice WRLD,Fast,spotify:track:6MjNilJCVKJq0LfFvo5jWJ,True,,
-1255,Dabin,Part-Time Lover,spotify:track:7iYMW4Ww40RAbfeccmzMQa,True,,
+1255,Dabin,Part-Time Lover,spotify:track:7iYMW4Ww40RAbfeccmzMQa,True,,True
 1256,Lil Nas X,INDUSTRY BABY (feat. Jack Harlow),spotify:track:5Z9KJZvQzH6PFmb8SNkxuk,True,,True
 1257,BLACKPINK,Typa Girl,spotify:track:0L8LOav65XwLjCLS11gNPD,True,,
 1258,Juice WRLD,Lucid Dreams,spotify:track:0X8DcetL926BYiPJYstJTc,True,,True
-1259,Drake,No Friends In The Industry,spotify:track:2tUL6dZf1mywCj5WvCPZw6,True,,
+1259,Drake,No Friends In The Industry,spotify:track:2tUL6dZf1mywCj5WvCPZw6,True,,True
 1260,Meek Mill,Young Black America (feat. The-Dream),spotify:track:5fdZGkieO25z59c1PKXh8v,True,,
 1261,lovelytheband,broken - Cash Cash Remix,spotify:track:5W0vgRE9B23TZDj5B7pRUO,True,,
-1262,Jaden,Icon,spotify:track:22nyEAEM29tcBRhukR089b,,,
+1262,Jaden,Icon,spotify:track:22nyEAEM29tcBRhukR089b,,,True
 1263,Post Malone,Love/Hate Letter To Alcohol (with Fleet Foxes),spotify:track:6R9c642Hs3tOdLowjYaWt2,True,,
 1264,Summer Walker,Playing Games,spotify:track:4hWgC5BV5M7EtTleKVXNxw,True,,
 1265,Jay Sean,With You,spotify:track:1lnPygfVghWoKJAxaStV98,True,,
 1266,Lil Peep,Falling Down - Bonus Track,spotify:track:0Dn40gxVCMo5TkgS8Ik18Q,True,,True
 1267,Eminem,Walk On Water (feat. Beyoncé),spotify:track:7zLGHiDWd9T1Rxw4PQCb13,True,,
-1268,MRNX,Someone to Forget,spotify:track:54MfDXq9IIetkuTcJdTceG,True,,
+1268,MRNX,Someone to Forget,spotify:track:54MfDXq9IIetkuTcJdTceG,True,,True
 1269,Offset,Lick,spotify:track:4W9XGjEUVG9junR70FOLii,True,,
 1270,Joyner Lucas,I'm Sorry,spotify:track:3dqxngWDgh4tb0VSb83nvc,True,,
-1271,The Chainsmokers,Something Just Like This,spotify:track:1dNIEtp7AY3oDAKCGg2XkH,True,,
+1271,The Chainsmokers,Something Just Like This,spotify:track:1dNIEtp7AY3oDAKCGg2XkH,True,,True
 1272,"Tyler, The Creator",Boredom (feat. Rex Orange County & Anna of the North),spotify:track:5WNYg3usc6H8N3MBEp4zVk,True,True,True
 1273,24kGoldn,GAMES ON YOUR PHONE,spotify:track:2EsyJN3AvC3zBlkQpb119M,True,,True
 1274,Khalid,Saturday Nights,spotify:track:7vGGAJBkHKxKtOnGjQduDV,True,,True
 1275,"Tyler, The Creator",EARFQUAKE,spotify:track:5hVghJ4KaYES3BFUATCYn0,True,True,True
 1276,EVERGLOW,DUN DUN,spotify:track:3CyCjgTHFzqucmECajq8QA,True,,
-1277,Joel Corry,Head & Heart (feat. MNEK),spotify:track:6cx06DFPPHchuUAcTxznu9,True,,
+1277,Joel Corry,Head & Heart (feat. MNEK),spotify:track:6cx06DFPPHchuUAcTxznu9,True,,True
 1278,Jeremih,Take Your Time,spotify:track:31UPzWYdHxYPxYFEqB9vmK,,,
 1279,Justin Bieber,Intentions (feat. Quavo),spotify:track:4umIPjkehX1r7uhmGvXiSV,True,,
 1280,HONNE,one way to tokyo,spotify:track:1WJNTBzGIcnkJMN77XJlW4,True,,
-1281,Lil Tjay,Headshot (feat. Polo G & Fivio Foreign),spotify:track:6cQ08IpBxxfGcSKxqE3NmB,True,,
+1281,Lil Tjay,Headshot (feat. Polo G & Fivio Foreign),spotify:track:6cQ08IpBxxfGcSKxqE3NmB,True,,True
 1282,Drake,God's Plan,spotify:track:2XW4DbS6NddZxRPm5rMCeY,True,,True
 1283,Lil Nas X,Old Town Road (feat. Billy Ray Cyrus) - Remix,spotify:track:6u7jPi22kF8CTQ3rb9DHE7,,,
-1284,Snakehips,Don't Leave,spotify:track:0Zx8khUcEfCFK2AEoIhC92,True,,
+1284,Snakehips,Don't Leave,spotify:track:0Zx8khUcEfCFK2AEoIhC92,True,,True
 1285,Alina Baraz,Floating (feat. Khalid),spotify:track:2vLWF4yFhTHQZVwrPTjH1s,,,True
-1286,BROCKHAMPTON,BLEACH,spotify:track:0dWOFwdXrbBUYqD9DLsoyK,True,,
+1286,BROCKHAMPTON,BLEACH,spotify:track:0dWOFwdXrbBUYqD9DLsoyK,True,,True
 1287,The Chainsmokers,Takeaway (feat. Lennon Stella),spotify:track:6wo37KVqFJhtuxPTpLCcfe,,,
 1288,Wiz Khalifa,"Speed Me Up (with Ty Dolla $ign, Lil Yachty & Sueco the Child)",spotify:track:15eWNa3kpCPKILbSvvzSWl,True,,
 1289,Joji,ATTENTION,spotify:track:5aqu5xhPqoOWqF71PkfgM8,True,,True
 1290,Lofi Fruits Music,Yellow,spotify:track:5qSK5PDQKDyfRxgXqog7xP,True,,
-1291,Drake,7am On Bridle Path,spotify:track:42m3eP1JJhtzffal9B136J,True,,
+1291,Drake,7am On Bridle Path,spotify:track:42m3eP1JJhtzffal9B136J,True,,True
 1292,XXXTENTACION,SAD!,spotify:track:3ee8Jmje8o58CHK66QrVC2,True,,True
-1293,Justin Bieber,Holy (feat. Chance The Rapper),spotify:track:5u1n1kITHCxxp8twBcZxWy,,,
+1293,Justin Bieber,Holy (feat. Chance The Rapper),spotify:track:5u1n1kITHCxxp8twBcZxWy,,,True
 1294,Wyclef Jean,Hendrix,spotify:track:5rLqKi5grzujEQsuYmiWeh,True,,
 1295,HONNE,WHAT WOULD YOU DO? - The Lanesborough Session (feat. BAELY),spotify:track:6U164Ghcwg9l2c8ew8p1OV,True,,
 1296,Ariana Grande,make up,spotify:track:27356GVuMPFWiJSZCragoM,True,,True
@@ -1300,15 +1300,15 @@
 1298,Kent Loon,Rax,spotify:track:5ZbkbqTLU9qcgBnKHGdGZz,True,,
 1299,The Kid LAROI,FEEL SOMETHING (feat. Marshmello),spotify:track:2meUwHuMyPM0Ng1iTOc8eQ,True,,
 1300,Mustard,Vato,spotify:track:0V5uhgs1JVdZn184oLITJ6,True,,
-1301,"Tyler, The Creator",See You Again (feat. Kali Uchis),spotify:track:7KA4W4McWYRpgf0fWsJZWB,True,,
+1301,"Tyler, The Creator",See You Again (feat. Kali Uchis),spotify:track:7KA4W4McWYRpgf0fWsJZWB,True,True,True
 1302,Bazzi,I.F.L.Y.,spotify:track:4a6q8CR2hzLk2plDkSxkfD,True,,True
 1303,The Weeknd,Escape From LA,spotify:track:1sOW4PuG5X3Ie3EXUhAopJ,,,True
 1304,A Boogie Wit da Hoodie,Reply (feat. Lil Uzi Vert),spotify:track:364spZLB5bhNlnPrzvUB41,True,,
 1305,ZAYN,"I Don’t Wanna Live Forever (Fifty Shades Darker) - From ""Fifty Shades Darker (Original Motion Picture Soundtrack)""",spotify:track:3i7ICydraKgHigUqu2AOPy,,,
-1306,Joji,CAN'T GET OVER YOU (feat. Clams Casino),spotify:track:5zGjnqtjvFee5fGLXHap3r,True,,
+1306,Joji,CAN'T GET OVER YOU (feat. Clams Casino),spotify:track:5zGjnqtjvFee5fGLXHap3r,True,,True
 1307,SoMo,Roses,spotify:track:6dmSFcNT3eS1djnJQpSPUk,True,,
 1308,Masked Wolf,Astronaut In The Ocean,spotify:track:3VT8hOC5vuDXBsHrR53WFh,True,,
-1309,Logic,Midnight,spotify:track:1GtVGc1UYin3zpMUdNSSpM,True,,
+1309,Logic,Midnight,spotify:track:1GtVGc1UYin3zpMUdNSSpM,True,True,
 1310,Firewoodisland,Forever Young,spotify:track:2h0ThLIUIfDEHuKVQLAnTm,True,,
 1311,Paris Shadows,Bones,spotify:track:4kSIn4O6pWXcW7prq0kO4C,True,,
 1312,XXXTENTACION,Everybody Dies In Their Nightmares,spotify:track:3GVkPk8mqxz0itaAriG1L7,True,,True
@@ -1319,32 +1319,32 @@
 1317,Drake,In The Bible (with Lil Durk & Giveon),spotify:track:61S79KIVA4I9FXbnsylEHT,True,,True
 1318,SPOOKY GLOOM,NUMB / NO ONE,spotify:track:30xppLsDyy1YRYDVWXI7B0,True,,
 1319,Drake,Wants and Needs (feat. Lil Baby),spotify:track:65OVbaJR5O1RmwOQx0875b,True,,True
-1320,Porter Robinson,Shelter,spotify:track:2CgOd0Lj5MuvOqzqdaAXtS,True,,
+1320,Porter Robinson,Shelter,spotify:track:2CgOd0Lj5MuvOqzqdaAXtS,True,True,
 1321,Smeyeul.,send me a song,spotify:track:2hzhi9s8hC9GdeLHuydqcL,True,,
 1322,benny blanco,Roses (with Juice WRLD feat. Brendon Urie),spotify:track:5YAP8zpqj1eIX88makBjDe,,,
 1323,Lil Uzi Vert,That Way,spotify:track:5raTDhlbxFDnpn89bxArdH,True,,
 1324,Roddy Ricch,The Box,spotify:track:0nbXyq5TXYPCO7pr3N8S4I,True,,True
 1325,Russ,NIGHTTIME (Interlude),spotify:track:1LErJ8H8vJK9uJi66zlvbw,True,,
 1326,Excision,Gold (Stupid Love),spotify:track:5ZzjNL4J31lqU853Un7T3f,True,,True
-1327,Martin Garrix,Something,spotify:track:6LHXb1sGs72iTmpSr0603b,True,,
+1327,Martin Garrix,Something,spotify:track:6LHXb1sGs72iTmpSr0603b,True,,True
 1328,Glass Animals,Heat Waves (with iann dior),spotify:track:3pXVWgkWybiGchdKGYDgdl,True,,
 1329,Kanye West,Ghost Town,spotify:track:6Bg7MznA9X0dIhlAsLyBYj,True,True,True
 1330,Lil Yachty,Yacht Club (feat. Juice WRLD),spotify:track:5R2rsbwCDXORX2tLfprRmM,True,,
 1331,VIC MENSA,Almost There,spotify:track:6jlPsC7xoYtd13U9UcxbCf,True,,
 1332,French Montana,Unforgettable,spotify:track:1F2HXIJrE2Xn81OzT2zZvW,True,,
 1333,KnowKnow,Mr. Bentley,spotify:track:603FrR2LgWS3X4osiN12XO,True,,
-1334,XXXTENTACION,changes,spotify:track:7AFASza1mXqntmGtbxXprO,True,,
-1335,Drake,Emotionless,spotify:track:1v1IXPXl73Z7zy6f5tUa9n,True,,
+1334,XXXTENTACION,changes,spotify:track:7AFASza1mXqntmGtbxXprO,True,,True
+1335,Drake,Emotionless,spotify:track:1v1IXPXl73Z7zy6f5tUa9n,True,,True
 1336,NLE Choppa,Shotta Flow (Feat. Blueface) [Remix],spotify:track:67XyC1GdSkKb9sbRRkUDXS,True,,
 1337,YBN Nahmir,Talkin,spotify:track:1oxiu1OY6PHkJtakt4vKdX,True,,
 1338,Taylor Swift,exile (feat. Bon Iver),spotify:track:4pvb0WLRcMtbPGmtejJJ6y,True,,
-1339,James Blake,Mile High,spotify:track:64ydkbrt0xhdJXRaam06Mc,,,
+1339,James Blake,Mile High,spotify:track:64ydkbrt0xhdJXRaam06Mc,,True,
 1340,DaniLeigh,"Can't Relate (feat. YBN Nahmir, YG)",spotify:track:74YaGodeQdJoR5L8l59CYF,True,,
 1341,BLACKPINK,You Never Know,spotify:track:39kzWAiVPpycdMpr745oPj,True,,
-1342,Joji,Sanctuary,spotify:track:3xaugmCyXrVkrDTXbFkMW3,True,,
+1342,Joji,Sanctuary,spotify:track:3xaugmCyXrVkrDTXbFkMW3,True,,True
 1343,Win and Woo,Chasing Tail (Madnap Remix),spotify:track:6exN5SiAFfOI4DyRPZuUWh,True,,True
 1344,Glude,Dreamers,spotify:track:2L6kAGRcZtLKK8jG6W5kNw,True,,
-1345,Drake,Jimmy Cooks (feat. 21 Savage),spotify:track:3F5CgOj3wFlRv51JsHbxhe,True,,
+1345,Drake,Jimmy Cooks (feat. 21 Savage),spotify:track:3F5CgOj3wFlRv51JsHbxhe,True,,True
 1346,Travis Scott,SICKO MODE,spotify:track:2xLMifQCjDGFmkHkpNLD9h,True,,True
 1347,Boy In Space,Cold,spotify:track:5jYe1mOKg5zUx0enf1DOdz,True,,
 1348,Juice WRLD,Robbery,spotify:track:711MglQhnhOF3UAiAs9A59,,,
@@ -1353,7 +1353,7 @@
 1351,YG,Jealous,spotify:track:6tNnz0d4tijmTed5YB434Q,True,,
 1352,Joji,SLOW DANCING IN THE DARK,spotify:track:0UyljEbX9dqI1K0sqdv6B6,True,,True
 1353,Finn Foxell,Herd,spotify:track:2LXPJkhEzpyiUrCIRVqM7S,True,,
-1354,Kanye West,Follow God,spotify:track:2QpGZOhTCHHiKmpSO9FW4h,True,,
+1354,Kanye West,Follow God,spotify:track:2QpGZOhTCHHiKmpSO9FW4h,True,True,True
 1355,The Weeknd,In Your Eyes (with Doja Cat) - Remix,spotify:track:0UnTaVkntyh3vqvLEvbpQx,True,,
 1356,Lil Nas X,LIFE AFTER SALEM,spotify:track:6D3t4w54PgLNGQ48R7th7R,True,,
 1357,NF,Let You Down,spotify:track:6mrKP2jyIQmM0rw6fQryjr,True,,
@@ -1367,15 +1367,15 @@
 1365,Calvin Harris,Slide (feat. Frank Ocean & Migos),spotify:track:6gpcs5eMhJwax4mIfKDYQk,True,True,True
 1366,Juice WRLD,Bandit (with YoungBoy Never Broke Again),spotify:track:6Gg1gjgKi2AK4e0qzsR7sd,True,,
 1367,6ix9ine,TROLLZ (with Nicki Minaj),spotify:track:3dVvWnj4D8JGkKvo6Hucso,True,,
-1368,Justin Bieber,Anyone,spotify:track:31qCy5ZaophVA81wtlwLc4,True,,
+1368,Justin Bieber,Anyone,spotify:track:31qCy5ZaophVA81wtlwLc4,True,,True
 1369,blackbear,hot girl bummer,spotify:track:7aiClxsDWFRQ0Kzk5KI5ku,True,,True
 1370,ARMNHMR,Silver Lining (feat. KARRA),spotify:track:0j2wk6O1tASLinYDfs97oo,True,,
 1371,The Weeknd,Save Your Tears (with Ariana Grande) (Remix),spotify:track:37BZB0z9T8Xu7U3e65qxFy,True,,True
 1372,Kodak Black,ZEZE (feat. Travis Scott & Offset),spotify:track:7l3E7lcozEodtVsSTCkcaA,,,
-1373,Drake,Toosie Slide,spotify:track:127QTOFJsJQp5LbJbu3A1y,True,,
+1373,Drake,Toosie Slide,spotify:track:127QTOFJsJQp5LbJbu3A1y,True,,True
 1374,keshi,beside you,spotify:track:1Fhb9iJPufNMZSwupsXiRe,True,,True
 1375,ONE OK ROCK,Kanzen kankaku Dreamer,spotify:track:1XT0cpl9g0GuRQJao2nqXd,True,,
-1376,Martin Garrix,Scared to Be Lonely,spotify:track:3ebXMykcMXOcLeJ9xZ17XH,True,,
+1376,Martin Garrix,Scared to Be Lonely,spotify:track:3ebXMykcMXOcLeJ9xZ17XH,True,,True
 1377,Travis Scott,HIGHEST IN THE ROOM,spotify:track:3eekarcy7kvN4yt5ZFzltW,True,,True
 1378,Metro Boomin,Lesbian (feat. Gunna & Young Thug),spotify:track:3tkFCUaISwablf9MJydsuB,True,,
 1379,Portugal. The Man,Feel It Still,spotify:track:6QgjcU0zLnzq5OrUoSZ3OK,True,,
@@ -1383,13 +1383,13 @@
 1381,Derek & The Dominos,Layla,spotify:track:2kkvB3RNRzwjFdGhaUA0tz,True,,
 1382,MEDUZA,Piece Of Your Heart,spotify:track:1DFD5Fotzgn6yYXkYsKiGs,True,,True
 1383,ILLENIUM,Fractures (feat. Nevve),spotify:track:6H0zRPEV1ezBHOidNXSt1D,True,,True
-1384,A$AP Rocky,Sundress,spotify:track:2aPTvyE09vUCRwVvj0I8WK,True,,
+1384,A$AP Rocky,Sundress,spotify:track:2aPTvyE09vUCRwVvj0I8WK,True,,True
 1385,A Boogie Wit da Hoodie,Skeezers,spotify:track:2A4vCndSkZ3jd5nfh3a8gc,True,,
 1386,Offset,Wild Wild West (feat. Gunna),spotify:track:0SQ8yalm13UIJuebuZkQlH,True,,
 1387,RL Grime,Take It Away,spotify:track:5ZahQIsfOhgRoLS2UpUN7J,True,,True
 1388,Internet Money,JETSKI (feat. Lil Mosey & Lil Tecca),spotify:track:2vl0D1b0M6UHlD1Fjh5j1m,True,,
 1389,Lil Uzi Vert,Secure The Bag,spotify:track:7gHZGXSJzM29WA384suYY2,True,,
-1390,Denzel Curry,Dynasties and Dystopia (from the series Arcane League of Legends),spotify:track:2k2RPHMeyercU9PauiKNbU,True,,
+1390,Denzel Curry,Dynasties and Dystopia (from the series Arcane League of Legends),spotify:track:2k2RPHMeyercU9PauiKNbU,True,,True
 1391,The Lighthouse And The Whaler,We Are Infinite,spotify:track:0PsCdWEczdow0ZYgmRd1Mq,True,,
 1392,Netsky,I Don’t Even Know You Anymore (feat. Bazzi & Lil Wayne),spotify:track:5pzeevBDvU6GVXqUKoiYDX,True,,
 1393,Kendrick Lamar,YAH.,spotify:track:22uyC54d6XAPRTlc6IchaP,True,,
@@ -1397,9 +1397,9 @@
 1395,Sleepy Hallow,2055,spotify:track:4XvcHTUfIlWfyJTRG0aqlo,True,,
 1396,Calvin Harris,Rollin (feat. Future & Khalid),spotify:track:0lMbuWUpfTWhEmOKxppEau,True,,True
 1397,Lil Peep,Broken Smile (My All),spotify:track:1BCBBO8VUEFOb6RBct4XDp,True,,
-1398,The Chainsmokers,The One,spotify:track:0wfbD5rAksdXUzRvMfM3x5,True,,
+1398,The Chainsmokers,The One,spotify:track:0wfbD5rAksdXUzRvMfM3x5,True,,True
 1399,Aminé,REDMERCEDES - Remix,spotify:track:24QH8IlI5nQslKXSvKhoR1,True,,
-1400,DJ Snake,U Are My High,spotify:track:3S7A85bAWOd6ltk6r2ANOI,True,,
+1400,DJ Snake,U Are My High,spotify:track:3S7A85bAWOd6ltk6r2ANOI,True,,True
 1401,Cash Cash,Matches,spotify:track:7nwGvxqSrgAuty1tlPGCFz,True,,
 1402,Roy Woods,Instinct (feat. MadeinTYO),spotify:track:49VzL5oBsUICN7U34T98b9,True,,
 1403,Lil Wayne,Mahogany,spotify:track:5f9JYuHSIHjp6rggue13RS,True,,True
@@ -1408,27 +1408,27 @@
 1406,RIZ LA VIE,Napkins,spotify:track:37b1KAbfOZeBzeMB0LGO3g,True,,
 1407,James Blake,Into The Red,spotify:track:69sxo1DMPHgsJs1KA5OMRh,True,,
 1408,MANILA GREY,Timezones,spotify:track:4oQa2jrXd3dqbMGNC7oyqf,True,,True
-1409,BLACKPINK,Shut Down,spotify:track:0ARKW62l9uWIDYMZTUmJHF,True,,
+1409,BLACKPINK,Shut Down,spotify:track:0ARKW62l9uWIDYMZTUmJHF,True,,True
 1410,Flume,Rushing Back,spotify:track:2zoNNEAyPK2OGDfajardlY,True,,True
 1411,offonoff,"Cigarette (Feat. Tablo, MISO)",spotify:track:14p5EKgbPx4U3P1j5JNHeh,True,,True
 1412,Trippie Redd,Rich MF (feat. Polo G & Lil Durk),spotify:track:5KQxun2WxwDMsV7HCN2ONK,True,,
 1413,Dua Lipa,IDGAF,spotify:track:76cy1WJvNGJTj78UqeA5zr,True,,
 1414,YoungBoy Never Broke Again,My Window (feat. Lil Wayne),spotify:track:7IECs9d4Rrlpa7tiHOCE1w,True,,
-1415,Nas,everything,spotify:track:3XaNHbNa9Chz9plhRpcaof,,,
+1415,Nas,everything,spotify:track:3XaNHbNa9Chz9plhRpcaof,,,True
 1416,Elephante,Otherside,spotify:track:5z9fU5QP5z8jJXcP6OmU0w,True,,
 1417,Lil Wayne,Can't Be Broken,spotify:track:5cGpjfgAvidLy6znwkCxkP,True,,
 1418,Louyah,I Used to Care,spotify:track:2z9tQz4ygexOYb2SnCPCnP,True,,
 1419,Trippie Redd,Taking A Walk,spotify:track:4mHgYpuGHu99Mw69E83CP2,,,True
 1420,Lil Uzi Vert,Myron,spotify:track:56uXDJRCuoS7abX3SkzHKQ,,,
 1421,NAV,Young Wheezy (with Gunna),spotify:track:0bMyxvtbPa7HFemLjzw0xX,,,
-1422,Billie Eilish,lovely (with Khalid),spotify:track:0u2P5u6lvoDfwTYjAADbn4,True,,
+1422,Billie Eilish,lovely (with Khalid),spotify:track:0u2P5u6lvoDfwTYjAADbn4,True,,True
 1423,Post Malone,I Fall Apart,spotify:track:75ZvA4QfFiZvzhj2xkaWAh,True,,
 1424,Roddy Ricch,Tip Toe (feat. A Boogie Wit da Hoodie),spotify:track:5j1yOqWONR9T6l43AzJ6Es,True,,
-1425,inverness,Lost My Mind,spotify:track:1TRkBANxImuCUOIgd2ilh6,True,,
+1425,inverness,Lost My Mind,spotify:track:1TRkBANxImuCUOIgd2ilh6,True,,True
 1426,Pop Smoke,Coupe,spotify:track:4wNKxMbE3n1gRm4F6OaCP1,True,,
 1427,Luis Fonsi,Despacito - Remix,spotify:track:6rPO02ozF3bM7NnOV4h6s2,True,,
 1428,Litany,Bedroom,spotify:track:3LH6EfPCeySeuymuK2gWAO,True,,
-1429,Martin Garrix,Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy),spotify:track:7Feaw9WAEREY0DUOSXJLOM,True,,
+1429,Martin Garrix,Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy),spotify:track:7Feaw9WAEREY0DUOSXJLOM,True,,True
 1430,Post Malone,One Right Now (with The Weeknd),spotify:track:00Blm7zeNqgYLPtW6zg8cj,True,,True
 1431,Zeds Dead,Where The Wild Things Are,spotify:track:4EwSqnjnXCG7NqY08RRSKq,True,,True
 1432,Aminé,Turf,spotify:track:6ODTw5ivAheWBql4tCiNkl,True,,
@@ -1444,36 +1444,36 @@
 1442,Rihanna,Pour It Up,spotify:track:76VtA90NKurNqaQpV126Ue,,,True
 1443,J. Cole,Sparks Will Fly (feat. Jhené),spotify:track:4fFZW98VLhdZSlyC07wt6v,,,
 1444,Kayzo,Suffocate,spotify:track:6wUK8WB3cbNUAAGjNmKy3M,,,True
-1445,Blue.D,NOBODY,spotify:track:3U5ti2dwp5FA70lZPrhv9l,,,
+1445,Blue.D,NOBODY,spotify:track:3U5ti2dwp5FA70lZPrhv9l,,,True
 1446,ILLENIUM,Crawl Outta Love,spotify:track:0q7oMII7kWTj1ZSX6GT6LU,True,,True
 1447,blackbear,hot girl bummer,spotify:track:7aiClxsDWFRQ0Kzk5KI5ku,True,,True
-1448,SVDDEN DEATH,Behemoth VIP,spotify:track:0tkwUKjhuBA5UuA95JY2bU,,,
-1449,Laica,Nobody Else but You,spotify:track:1O4HQF2NVTbxnthGUooSiT,,,
+1448,SVDDEN DEATH,Behemoth VIP,spotify:track:0tkwUKjhuBA5UuA95JY2bU,,,True
+1449,Laica,Nobody Else but You,spotify:track:1O4HQF2NVTbxnthGUooSiT,,,True
 1450,Lolo Zouaï,Brooklyn Love,spotify:track:1F0tYkzGNjogSmx49DiaBa,,,True
 1451,Tate McRae,working,spotify:track:31sSFHIe4NaxltVFOEIcTa,True,,True
-1452,ZHU,Love That Hurts,spotify:track:5kBUIe8UcUUGLzP4hoc8XJ,,,
+1452,ZHU,Love That Hurts,spotify:track:5kBUIe8UcUUGLzP4hoc8XJ,,,True
 1453,Calvin Harris,One Kiss (with Dua Lipa) - Oliver Heldens Remix,spotify:track:7b4vbqgzMhbFa0wdjfftQJ,,,True
 1454,Lil Durk,Young Niggas (feat. Meek Mill),spotify:track:1fDd6JnVFWI88B1xUCsPO7,,,True
 1455,Way Ched,Why do u say,spotify:track:3cIOp7ByTl0LDj1CINnqcA,,,True
 1456,Desiigner,Make It Out,spotify:track:0C314h1P270WxwkCYETQM7,,,True
-1457,TIA,Ai Đưa Em Về,spotify:track:39TAKt2hL8sdhVTFCNfm2Y,,,
+1457,TIA,Ai Đưa Em Về,spotify:track:39TAKt2hL8sdhVTFCNfm2Y,,,True
 1458,SURAN,Heartbeat,spotify:track:3WZ3wHtGWzevZkeUVXCIZe,,,True
 1459,3LAU,Touch - Zeds Dead Remix,spotify:track:5xFyDoUkX82ZZoYrBgy3Bi,,,True
-1460,Rosa Walton,I Really Want to Stay at Your House,spotify:track:7mykoq6R3BArsSpNDjFQTm,True,,
+1460,Rosa Walton,I Really Want to Stay at Your House,spotify:track:7mykoq6R3BArsSpNDjFQTm,True,,True
 1461,David Guetta,2U,spotify:track:762UXiwEHYY97VL45sAUPR,True,,True
 1462,Excision,Your Fault,spotify:track:2HRNRdM9n5CvcMYkvqPpI8,True,,True
-1463,CL,Wish You Were Here,spotify:track:47jhKD8sm2I3Aoktj4G5J8,,,
+1463,CL,Wish You Were Here,spotify:track:47jhKD8sm2I3Aoktj4G5J8,,,True
 1464,Cashmere Cat,WITHOUT YOU,spotify:track:7aLUbVBpLgsj4QW4fchL47,,,True
 1465,frad,blossoms,spotify:track:3bFcRPKFv3DjcEfQpgQLXs,,,True
 1466,Frank Ocean,Self Control,spotify:track:5GUYJTQap5F3RDQiCOJhrS,True,,True
-1467,CHUNG HA,Crazy Like You (feat. BIBI),spotify:track:0oUK4m2wNIBPfejlcB1N9k,,,
+1467,CHUNG HA,Crazy Like You (feat. BIBI),spotify:track:0oUK4m2wNIBPfejlcB1N9k,,,True
 1468,Excision,Night Shine,spotify:track:5ATaVcsn20iM668ESHym0U,,,True
 1469,Maroon 5,Sunday Morning,spotify:track:1YI0uK36eupTmw9F8kHysr,True,,True
-1470,ZHU,ONLY,spotify:track:6hIFc8n6iI9r6NBpVA0Fyl,,,
+1470,ZHU,ONLY,spotify:track:6hIFc8n6iI9r6NBpVA0Fyl,,,True
 1471,G-Eazy,No Limit,spotify:track:2Xqd0wUttjueBfdcltADOv,,,True
 1472,Seori,Dive with you (feat. eaJ),spotify:track:5RqwjQWDwxQ3HTkOfXTrS6,,,True
 1473,6ix9ine,BEBE,spotify:track:7vcWtt5oLYbdAtvV7r2hJ1,,,
-1474,GREY D,vaicaunoicokhiennguoithaydoi,spotify:track:25h0TqC9H3BcMA7KjK5nHK,,,
+1474,GREY D,vaicaunoicokhiennguoithaydoi,spotify:track:25h0TqC9H3BcMA7KjK5nHK,,,True
 1475,Flux Pavilion,I Believe,spotify:track:6zke4l646FheM5JlIdu4T8,,,True
 1476,Why Don't We,Invitation,spotify:track:7EtzDNjVmifX4q4k9hQKTV,,,True
 1477,Medasin,Home,spotify:track:42NB7w0tDCag0mQpCtZe7Y,,,True
@@ -1481,8 +1481,8 @@
 1479,Macklemore,Glorious (feat. Skylar Grey),spotify:track:3HVr6jTVwBHBa2flM0eURR,,,True
 1480,MØ,Final Song,spotify:track:4qqArAiTPueDxIp7cf87h7,,,True
 1481,Drake,From Time,spotify:track:10VBBaul4zVD0reteuIHM2,,,True
-1482,Alina Baraz,Off the Grid (feat. Khalid),spotify:track:3U62bHMhP7bKAFYMkn3fNx,,,True
-1483,Zeds Dead,In My Head,spotify:track:0JKg9Fk6tvcwiYTmRrEnTQ,True,,
+1482,Alina Baraz,Off the Grid (feat. Khalid),spotify:track:3U62bHMhP7bKAFYMkn3fNx,,True,True
+1483,Zeds Dead,In My Head,spotify:track:0JKg9Fk6tvcwiYTmRrEnTQ,True,,True
 1484,Lauv,The Other,spotify:track:3ZD3kjn80pQ9keYO8eqp9d,,,True
 1485,Lucky Luke,F.E.E.L.,spotify:track:4pH3ZfOYekw7xcROweHa66,,,True
 1486,SLUMBERJACK,Poison,spotify:track:2JQrwRFtOsXNQwIkN2ulgY,,,True
@@ -1500,9 +1500,9 @@
 1498,ZHU x Skrillex x THEY.,Working For It,spotify:track:4rmltx2fnEIgUZLXzH9Bs4,,,
 1499,William Singe,"Flex (Ooh, Ooh, Ooh)",spotify:track:54VCVOE0jDaQlbqkrImXN6,,,True
 1500,Marshmello,Be Kind (with Halsey),spotify:track:3Z8FwOEN59mRMxDCtb8N0A,,,True
-1501,Lil Waterboi,Du Ma May,spotify:track:6a6u1fxY9nq5bT5p53NSQE,,,
+1501,Lil Waterboi,Du Ma May,spotify:track:6a6u1fxY9nq5bT5p53NSQE,,,True
 1502,French Montana,A Lie,spotify:track:1vVNlXi8gf8tZ7OhnEs4VE,,,True
-1503,Shawn Mendes,Lost In Japan - Remix,spotify:track:575NJxNUVDqwJGdzBrlLbv,,,
+1503,Shawn Mendes,Lost In Japan - Remix,spotify:track:575NJxNUVDqwJGdzBrlLbv,,,True
 1504,Chris Brown,Party (feat. Usher & Gucci Mane),spotify:track:05Z7jet4VDNVgNQWcYHnrk,,,True
 1505,Imagine Dragons,Bad Liar,spotify:track:2RSHsoi04658QL5xgQVov3,,,True
 1506,Blue Foundation,Eyes on Fire - Zeds Dead Remix,spotify:track:3Oiauiojgokw9vWQvFmEoI,True,,True
@@ -1512,7 +1512,7 @@
 1510,Drake,Do Not Disturb,spotify:track:1JxV2A7IFlmosxlCckJ8Yc,True,,True
 1511,Kanye West,Violent Crimes,spotify:track:3s7MCdXyWmwjdcWh7GWXas,True,True,True
 1512,Lil Wayne,A Milli,spotify:track:6ScJMrlpiLfZUGtWp4QIVt,,,True
-1513,ロクデナシ,ただ声一つ,spotify:track:2e1gUS6Wv8GS8ZT6FMeE1J,,,
+1513,ロクデナシ,ただ声一つ,spotify:track:2e1gUS6Wv8GS8ZT6FMeE1J,,,True
 1514,Kaiydo,Arcade,spotify:track:7otzPTzCipngNDhoRMOjot,,,True
 1515,Baby Keem,family ties (with Kendrick Lamar),spotify:track:7Bpx2vsWfQFBACRz4h3IqH,True,True,True
 1516,BTS,Dream Glow (BTS World Original Soundtrack) - Pt. 1,spotify:track:4c1WgUnHXq2LEncGHKgj1I,,,True
@@ -1524,9 +1524,9 @@
 1522,Dumbfoundead,WASHED (PROD. BY SHAWN WASABI),spotify:track:5IjgA0yIKV6wz6xBU4d091,,,True
 1523,Mocki,Weekend - Jai Wolf Remix,spotify:track:56uve6ghEMpAuEF5QTlTs2,,,True
 1524,TVXQ!,이것만은 알고 가 (Before U Go),spotify:track:0YbrRbfF9kgmCdO1O0qtkT,,,
-1525,Seori,Fairy Tale,spotify:track:02bKxwW9XY9LElj0TqDK6S,,,
+1525,Seori,Fairy Tale,spotify:track:02bKxwW9XY9LElj0TqDK6S,,,True
 1526,Said The Sky,All I Got,spotify:track:1iaTDu4PCIWQQOwwwqq5qW,True,,True
-1527,Cherry Coke,we’re dying (feat. Paloalto),spotify:track:6T3hrpDALKIgwa8N2v87Ox,,,
+1527,Cherry Coke,we’re dying (feat. Paloalto),spotify:track:6T3hrpDALKIgwa8N2v87Ox,,,True
 1528,Sam Smith,Too Good At Goodbyes,spotify:track:7oAraczbemGSNWqnbkU87R,True,,True
 1529,A Boogie Wit da Hoodie,Drowning (feat. Kodak Black),spotify:track:3LnOF5n1GOs01siYZXzS3p,True,,True
 1530,Russ,Ain't Nobody Takin My Baby,spotify:track:6VnqGxiMNexOe0kRmIsBw4,,,True
@@ -1538,6 +1538,6 @@
 1536,Miguel,Sure Thing,spotify:track:0JXXNGljqupsJaZsgSbMZV,,,True
 1537,SZA,Love Galore,spotify:track:1E2ePlJmijVSX0o1G9TFgR,,,
 1538,Swae Lee,In The Dark (with Jhené Aiko),spotify:track:0zaoWwS8RpE3LSDdmkg8TC,,,True
-1539,Fujii Kaze,Shinunoga E-Wa,spotify:track:0o9zmvc5f3EFApU52PPIyW,,,
+1539,Fujii Kaze,Shinunoga E-Wa,spotify:track:0o9zmvc5f3EFApU52PPIyW,,,True
 1540,Cardi B,Bartier Cardi (feat. 21 Savage),spotify:track:75FDPwaULRdYDn4StFN2rT,,,True
 1541,Zeds Dead,Lights Out,spotify:track:5FFoKbF8FK0AIC0i5GjSyM,,,True
